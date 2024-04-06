@@ -10,7 +10,7 @@ https://earthquake.usgs.gov/earthquakes/eventpage/us7000mab9/dyfi/intensity-vs-d
 This project explores the relationship between earthquake intensity, distance from the epicenter, and estimated distances using visual data analysis techniques. We employ scatter plots and a heatmap-like visualization to convey the variations and patterns within the earthquake data.
 
 ## Visualizations
-
+- Note when reviewing this data, there are still bits of data, cleansing and removal of outliers that I need to do. 
 ### Scatter Plot: Intensity vs. Actual Distance
 
 The first visualization is a scatter plot that compares the earthquake intensity to the actual distance from the epicenter. 
