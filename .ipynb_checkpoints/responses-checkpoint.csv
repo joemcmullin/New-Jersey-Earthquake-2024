@@ -1,0 +1,985 @@
+City,State/Region,Country,Zip Code,MMI,Responses,Distance,Latitude,Longitude
+Agawam,MA,United States of America,01001,III,1,233 km,42.0637889269,-72.6235897595
+Amherst,MA,United States of America,01002,III,2,266 km,42.3752352869,-72.4616746777
+Chicopee,MA,United States of America,01013,III,2,241 km,42.1469592945,-72.6031885009
+Easthampton,MA,United States of America,01027,IV,1,244 km,42.2951753944,-72.7424207171
+East Longmeadow,MA,United States of America,01028,III,1,241 km,42.0600159856,-72.4992076361
+Hampden,MA,United States of America,01036,III,1,247 km,42.0640661229,-72.4155496751
+Hatfield,MA,United States of America,01038,III,1,259 km,42.3850201421,-72.607074296
+Leeds,MA,United States of America,01053,II,1,250 km,42.3527956281,-72.7166511039
+Northampton,MA,United States of America,01060,V,1,252 km,42.3203389684,-72.631092379
+Palmer,MA,United States of America,01069,III,1,262 km,42.186994646,-72.3080250474
+Westfield,MA,United States of America,01085,III,3,231 km,42.1536441287,-72.7706587867
+West Springfield,MA,United States of America,01089,III,2,236 km,42.1255861047,-72.6507304343
+Williamsburg,MA,United States of America,01096,III,1,252 km,42.4208158148,-72.7774157297
+Springfield,MA,United States of America,01104,III,1,242 km,42.1332711411,-72.5672980975
+Springfield,MA,United States of America,01105,III,1,239 km,42.1009088225,-72.5796991328
+Springfield,MA,United States of America,01118,III,1,242 km,42.0948372388,-72.5245506527
+Pittsfield,MA,United States of America,01201,III,4,230 km,42.4596308742,-73.2895787266
+Adams,MA,United States of America,01220,IV,1,253 km,42.626809883,-73.1185997687
+Monterey,MA,United States of America,01245,III,1,210 km,42.1910858218,-73.2038409378
+Richmond,MA,United States of America,01254,IV,1,219 km,42.3744354467,-73.3644257032
+Greenfield,MA,United States of America,01301,IV,4,278 km,42.6252251507,-72.6027387725
+Conway,MA,United States of America,01341,III,1,263 km,42.5017033022,-72.7033818335
+Montague,MA,United States of America,01351,IV,2,276 km,42.541093205,-72.5185137973
+Royalston,MA,United States of America,01368,IV,1,306 km,42.6784931883,-72.1848649835
+South Deerfield,MA,United States of America,01373,III,1,264 km,42.4652313886,-72.6189351216
+West Townsend,MA,United States of America,01474,III,1,332 km,42.6669123759,-71.748927098
+Leicester,MA,United States of America,01524,III,2,292 km,42.2471806858,-71.9186870082
+Uxbridge,MA,United States of America,01569,III,1,301 km,42.0589536052,-71.637312589
+Westborough,MA,United States of America,01581,II,1,314 km,42.2679809384,-71.6152038983
+West Brookfield,MA,United States of America,01585,III,1,275 km,42.2327568645,-72.165613048
+Sutton,MA,United States of America,01590,IV,1,297 km,42.1336891321,-71.7508673618
+Worcester,MA,United States of America,01609,III,1,301 km,42.2880331034,-71.8315544146
+Paxton,MA,United States of America,01612,IV,1,295 km,42.3108462161,-71.9328940213
+Acton,MA,United States of America,01720,III,2,340 km,42.4841300545,-71.4380138582
+Ashland,MA,United States of America,01721,II,3,324 km,42.2569610031,-71.4684669012
+Concord,MA,United States of America,01742,III,2,343 km,42.462088064,-71.3650225883
+Mendon,MA,United States of America,01756,III,1,309 km,42.0929848707,-71.5513358082
+Sudbury,MA,United States of America,01776,II,1,335 km,42.3845695222,-71.4236732426
+Andover,MA,United States of America,01810,II,1,368 km,42.6464610675,-71.1649090567
+Chelmsford,MA,United States of America,01824,II,2,352 km,42.5903149927,-71.3562820057
+Haverhill,MA,United States of America,01830,II,1,386 km,42.7958988158,-71.0525788018
+Tewksbury,MA,United States of America,01876,III,2,362 km,42.6120028629,-71.2281309427
+Tyngsboro,MA,United States of America,01879,II,2,352 km,42.6663015627,-71.4283861875
+Westford,MA,United States of America,01886,III,1,346 km,42.5866954938,-71.4402455368
+Winchester,MA,United States of America,01890,I,1,358 km,42.4504511542,-71.1446668121
+Ipswich,MA,United States of America,01938,IV,1,392 km,42.6819280123,-70.8492710063
+Newburyport,MA,United States of America,01950,III,1,397 km,42.8126672523,-70.8950505434
+Rockport,MA,United States of America,01966,III,1,406 km,42.6549761144,-70.6231507879
+Salem,MA,United States of America,01970,III,1,378 km,42.5105375075,-70.9072312507
+Bellingham,MA,United States of America,02019,III,1,314 km,42.0775110365,-71.4741356754
+Franklin,MA,United States of America,02038,II,1,319 km,42.0859059156,-71.4113198308
+Mansfield,MA,United States of America,02048,III,4,330 km,42.0158090848,-71.2183112748
+Medfield,MA,United States of America,02052,III,2,332 km,42.184863918,-71.3048739743
+Sharon,MA,United States of America,02067,II,1,337 km,42.1077715269,-71.1831469551
+Boston,MA,United States of America,02108,III,1,358 km,42.3569267873,-71.065063337
+Boston,MA,United States of America,02115,II,1,355 km,42.3408743248,-71.0949050128
+Boston,MA,United States of America,02116,III,1,357 km,42.3507807861,-71.0765331856
+Boston,MA,United States of America,02121,III,2,354 km,42.3061669577,-71.0855498978
+Boston,MA,United States of America,02127,III,2,359 km,42.3355834344,-71.0418069653
+Jamaica Plain,MA,United States of America,02130,III,2,352 km,42.3086307441,-71.1144356729
+Cambridge,MA,United States of America,02139,II,3,356 km,42.3623347378,-71.1024866902
+Cambridge,MA,United States of America,02140,III,1,355 km,42.3932687116,-71.1330849226
+Cambridge,MA,United States of America,02142,III,1,357 km,42.3628145555,-71.0815867671
+Somerville,MA,United States of America,02144,II,1,357 km,42.4007246351,-71.1220850206
+Malden,MA,United States of America,02148,II,1,363 km,42.4309273175,-71.0578296921
+Chelsea,MA,United States of America,02150,II,1,363 km,42.3966171703,-71.0322716045
+Quincy,MA,United States of America,02169,III,3,356 km,42.2410235193,-71.0165974328
+Quincy,MA,United States of America,02170,III,1,357 km,42.2665359327,-71.0159719845
+East Weymouth,MA,United States of America,02189,I,1,360 km,42.2112085387,-70.9314789843
+Brockton,MA,United States of America,02301,II,1,346 km,42.0770212995,-71.0418812789
+Carver,MA,United States of America,02330,III,1,359 km,41.8765363156,-70.7615739543
+East Bridgewater,MA,United States of America,02333,II,2,351 km,42.0350403946,-70.9425748522
+Middleboro,MA,United States of America,02346,II,2,350 km,41.8818015054,-70.8732875023
+Plymouth,MA,United States of America,02360,II,1,369 km,41.8782811473,-70.6304601441
+Brookline,MA,United States of America,02445,III,1,352 km,42.3261746144,-71.1333543408
+Waltham,MA,United States of America,02453,I,1,347 km,42.3693525385,-71.2401562011
+West Newton,MA,United States of America,02465,IV,2,346 km,42.3497293595,-71.2261620011
+Waban,MA,United States of America,02468,III,1,345 km,42.3274089293,-71.2309884512
+Watertown,MA,United States of America,02472,II,1,351 km,42.3699673595,-71.177286029
+Arlington,MA,United States of America,02476,II,1,354 km,42.4158569819,-71.1746635474
+Belmont,MA,United States of America,02478,II,1,352 km,42.3958622374,-71.1796705812
+Wellesley,MA,United States of America,02482,III,1,338 km,42.2930798657,-71.2994549199
+Dennis,MA,United States of America,02638,II,1,399 km,41.7337823474,-70.1920797596
+Osterville,MA,United States of America,02655,II,1,380 km,41.6324236996,-70.3884164573
+East Freetown,MA,United States of America,02717,IV,1,337 km,41.7560268069,-70.98210766
+East Taunton,MA,United States of America,02718,II,1,339 km,41.8684711722,-71.0115045361
+New Bedford,MA,United States of America,02740,II,1,336 km,41.6363082833,-70.9399830577
+New Bedford,MA,United States of America,02745,III,1,338 km,41.7025021872,-70.9501355832
+North Attleboro,MA,United States of America,02760,III,1,319 km,41.9705469465,-71.3367576082
+Rehoboth,MA,United States of America,02769,II,1,320 km,41.8426167469,-71.2446037109
+Seekonk,MA,United States of America,02771,II,1,314 km,41.8375139862,-71.3172567779
+Swansea,MA,United States of America,02777,IV,1,319 km,41.7534135029,-71.210799854
+Berkley,MA,United States of America,02779,III,1,333 km,41.8348591371,-71.0761778384
+Chepachet,RI,United States of America,02814,III,1,288 km,41.9040111361,-71.7071727343
+Coventry,RI,United States of America,02816,II,1,285 km,41.6905889402,-71.6166400325
+East Greenwich,RI,United States of America,02818,II,2,293 km,41.642275848,-71.4944630337
+Greenville,RI,United States of America,02828,II,1,297 km,41.8760532045,-71.5597652763
+Newport,RI,United States of America,02840,III,1,300 km,41.4675988412,-71.324441511
+North Kingstown,RI,United States of America,02852,II,1,293 km,41.5867192994,-71.4622365793
+Saunderstown,RI,United States of America,02874,II,1,290 km,41.5149912614,-71.4657749891
+Wakefield,RI,United States of America,02879,III,1,282 km,41.4265792668,-71.536909939
+Woonsocket,RI,United States of America,02895,III,1,308 km,42.0007874854,-71.4993507121
+Providence,RI,United States of America,02903,II,3,306 km,41.8201296044,-71.412668662
+Providence,RI,United States of America,02907,III,2,304 km,41.7970217107,-71.4246752857
+Providence,RI,United States of America,02908,III,1,305 km,41.8387315463,-71.4372388234
+North Providence,RI,United States of America,02911,III,1,303 km,41.8545936266,-71.4732666408
+East Providence,RI,United States of America,02914,II,1,310 km,41.8127363619,-71.3643200799
+Merrimack,NH,United States of America,03054,III,1,360 km,42.8548321874,-71.5186068673
+Lyndeborough,NH,United States of America,03082,IV,1,348 km,42.9033527973,-71.7748054243
+Hooksett,NH,United States of America,03106,III,1,380 km,43.0706069631,-71.4372715803
+Bedford,NH,United States of America,03110,II,1,365 km,42.9408808485,-71.530556881
+Hill,NH,United States of America,03243,IV,1,400 km,43.530969681,-71.7599195771
+Plymouth,NH,United States of America,03264,III,1,419 km,43.7240499688,-71.7064572616
+Thornton,NH,United States of America,03285,III,1,443 km,43.9454372224,-71.6141932191
+Concord,NH,United States of America,03301,II,1,386 km,43.2246968524,-71.5438866147
+Harrisville,NH,United States of America,03450,II,2,333 km,42.9423748853,-72.0891953683
+Newport,NH,United States of America,03773,III,1,365 km,43.3821362723,-72.19970435
+North Haverhill,NH,United States of America,03774,III,1,439 km,44.0847368244,-71.9963831747
+Portsmouth,NH,United States of America,03801,III,1,420 km,43.0695215594,-70.8001237339
+Somersworth,NH,United States of America,03878,III,1,428 km,43.2525749838,-70.8846469649
+Westbrook,ME,United States of America,04092,II,1,492 km,43.6924886758,-70.3550891146
+White River Junction,VT,United States of America,05001,II,1,383 km,43.6662482745,-72.3855682268
+Randolph,VT,United States of America,05060,III,1,400 km,43.9634279378,-72.6901881453
+Windsor,VT,United States of America,05089,III,1,364 km,43.4966051471,-72.4482463108
+Chester,VT,United States of America,05143,VI,1,334 km,43.2653374494,-72.6360058603
+Arlington,VT,United States of America,05250,IV,2,298 km,43.1207056098,-73.1934126068
+Manchester Center,VT,United States of America,05255,III,2,307 km,43.1665082542,-73.0659948539
+Brattleboro,VT,United States of America,05301,IV,2,295 km,42.8465122264,-72.6576234092
+Burlington,VT,United States of America,05401,III,1,437 km,44.4739826977,-73.2078905778
+South Burlington,VT,United States of America,05403,IV,2,435 km,44.4472940377,-73.17266926
+Burlington,VT,United States of America,05408,II,1,440 km,44.5098354023,-73.246704819
+Essex Junction,VT,United States of America,05452,III,1,446 km,44.5229518735,-73.0607572487
+Isle la Motte,VT,United States of America,05463,III,1,477 km,44.8696956392,-73.3410745913
+Vergennes,VT,United States of America,05491,III,1,397 km,44.1158624014,-73.3090403846
+Williston,VT,United States of America,05495,II,1,435 km,44.4283666998,-73.0935471669
+Greensboro Bend,VT,United States of America,05842,III,1,476 km,44.5620945126,-72.2215157461
+Avon,CT,United States of America,06001,III,3,200 km,41.7915222661,-72.8512460008
+Bristol,CT,United States of America,06010,III,3,187 km,41.6811152442,-72.9406891107
+Burlington,CT,United States of America,06013,II,1,191 km,41.7597065087,-72.9588097355
+Broad Brook,CT,United States of America,06016,III,1,228 km,41.9044146788,-72.5444830221
+Farmington,CT,United States of America,06032,III,3,197 km,41.7254645394,-72.8318860838
+Glastonbury,CT,United States of America,06033,IV,3,216 km,41.7052137087,-72.5390450192
+Berlin,CT,United States of America,06037,II,1,194 km,41.6110643422,-72.777179472
+Lakeville,CT,United States of America,06039,IV,1,176 km,41.9451186443,-73.4398051776
+Manchester,CT,United States of America,06040,IV,1,221 km,41.7614968159,-72.5229540891
+New Britain,CT,United States of America,06051,II,1,198 km,41.6649131082,-72.7696184058
+Plainville,CT,United States of America,06062,III,1,192 km,41.6740768748,-72.8573621767
+Barkhamsted,CT,United States of America,06063,III,1,202 km,41.928828694,-72.9697829732
+Vernon Rockville,CT,United States of America,06066,III,1,230 km,41.8361422753,-72.4610085734
+Rocky Hill,CT,United States of America,06067,II,2,204 km,41.6539189105,-72.6691426349
+Simsbury,CT,United States of America,06070,III,1,208 km,41.875439492,-72.8150150552
+Somers,CT,United States of America,06071,III,1,240 km,41.9945400437,-72.4471984334
+Enfield,CT,United States of America,06082,III,3,232 km,41.983918807,-72.5548824978
+Windsor,CT,United States of America,06095,IV,1,217 km,41.8713055973,-72.6728039461
+Windsor Locks,CT,United States of America,06096,II,1,222 km,41.9267415967,-72.6542772757
+Winsted,CT,United States of America,06098,V,2,196 km,41.9508975541,-73.0936414321
+Hartford,CT,United States of America,06103,II,1,211 km,41.7658275269,-72.6717358738
+West Hartford,CT,United States of America,06107,II,2,204 km,41.7540405129,-72.7579178107
+East Hartford,CT,United States of America,06108,II,1,215 km,41.7805943065,-72.6217408311
+East Hartford,CT,United States of America,06118,III,1,214 km,41.7483319088,-72.6097303608
+West Hartford,CT,United States of America,06119,III,1,207 km,41.763993211,-72.7268111368
+Amston,CT,United States of America,06231,II,1,225 km,41.6273048178,-72.3701519438
+Hebron,CT,United States of America,06248,II,1,225 km,41.6855146937,-72.4054881811
+Willington,CT,United States of America,06279,II,1,247 km,41.8887650524,-72.2593842179
+Groton,CT,United States of America,06340,II,1,239 km,41.3588978917,-72.0455715911
+Jewett City,CT,United States of America,06351,III,1,255 km,41.5905601059,-71.9491902416
+Niantic,CT,United States of America,06357,III,1,225 km,41.3269448564,-72.2120902612
+Norwich,CT,United States of America,06360,III,2,243 km,41.5483983834,-72.0892857123
+Branford,CT,United States of America,06405,III,2,177 km,41.2853057911,-72.7986747325
+Cheshire,CT,United States of America,06410,III,1,179 km,41.51140109,-72.9035703483
+Clinton,CT,United States of America,06413,III,1,198 km,41.2990686174,-72.5293823201
+Colchester,CT,United States of America,06415,III,1,223 km,41.555355665,-72.3471339811
+Cromwell,CT,United States of America,06416,II,1,202 km,41.6118054921,-72.6635377859
+Killingworth,CT,United States of America,06419,I,1,198 km,41.3784732843,-72.5776849222
+Durham,CT,United States of America,06422,III,2,193 km,41.4619170985,-72.6833179022
+Haddam,CT,United States of America,06438,III,1,206 km,41.4570327536,-72.5103083501
+Madison,CT,United States of America,06443,III,2,192 km,41.3383744546,-72.6265426911
+Meriden,CT,United States of America,06451,II,1,187 km,41.5414488258,-72.8228704059
+Middletown,CT,United States of America,06457,III,2,200 km,41.5472206278,-72.6544255128
+Milford,CT,United States of America,06460,IV,1,154 km,41.2148194667,-73.0513169214
+Monroe,CT,United States of America,06468,IV,1,147 km,41.3378741841,-73.2247038522
+Old Saybrook,CT,United States of America,06475,III,1,210 km,41.301494951,-72.3854801145
+Oxford,CT,United States of America,06478,II,1,158 km,41.4304494059,-73.1347563439
+Seymour,CT,United States of America,06483,III,1,159 km,41.3804854046,-73.0875039503
+Shelton,CT,United States of America,06484,IV,2,151 km,41.3058573343,-73.1382050999
+Southbury,CT,United States of America,06488,III,2,154 km,41.4748800097,-73.2311633092
+Wallingford,CT,United States of America,06492,II,1,184 km,41.4587797042,-72.803714572
+Westbrook,CT,United States of America,06498,III,1,204 km,41.3069672372,-72.4664510803
+New Haven,CT,United States of America,06510,III,2,168 km,41.306323518,-72.926370894
+New Haven,CT,United States of America,06511,IV,3,168 km,41.3160597813,-72.9269252859
+East Haven,CT,United States of America,06512,IV,1,171 km,41.2815714724,-72.8721675616
+New Haven,CT,United States of America,06515,II,2,165 km,41.3276434545,-72.9700516696
+West Haven,CT,United States of America,06516,III,1,163 km,41.2735719741,-72.9672349282
+Hamden,CT,United States of America,06517,II,1,171 km,41.3479711424,-72.9053834376
+Woodbridge,CT,United States of America,06525,III,1,163 km,41.3562170773,-73.0102829586
+Trumbull,CT,United States of America,06611,III,2,144 km,41.2601023884,-73.2103064015
+Stratford,CT,United States of America,06614,IV,1,149 km,41.2301780025,-73.1280262136
+Prospect,CT,United States of America,06712,III,1,173 km,41.4990480212,-72.9761725868
+Bethlehem,CT,United States of America,06751,III,1,166 km,41.6378990917,-73.2106361574
+Bridgewater,CT,United States of America,06752,IV,1,148 km,41.5208338526,-73.360127605
+Litchfield,CT,United States of America,06759,IV,1,174 km,41.7566467682,-73.2101658749
+New Milford,CT,United States of America,06776,III,2,150 km,41.5994852973,-73.415669422
+Roxbury,CT,United States of America,06783,III,1,154 km,41.5532915779,-73.300353297
+Torrington,CT,United States of America,06790,III,1,186 km,41.8396633057,-73.1275995933
+Harwinton,CT,United States of America,06791,II,1,184 km,41.7548062564,-73.0585511688
+Woodbury,CT,United States of America,06798,III,1,161 km,41.5615966985,-73.2073398556
+Bethel,CT,United States of America,06801,V,2,136 km,41.3747168743,-73.3931224778
+Brookfield,CT,United States of America,06804,III,2,142 km,41.4669687696,-73.3933053733
+Cos Cob,CT,United States of America,06807,IV,1,106 km,41.0619012573,-73.5920599605
+Danbury,CT,United States of America,06811,IV,1,133 km,41.4243981776,-73.4828852366
+New Fairfield,CT,United States of America,06812,III,2,137 km,41.4878529027,-73.4882313031
+Fairfield,CT,United States of America,06824,III,3,135 km,41.1759664707,-73.2807379481
+Greenwich,CT,United States of America,06830,III,3,103 km,41.0502542244,-73.6238226689
+New Canaan,CT,United States of America,06840,V,1,117 km,41.1593431577,-73.499288527
+Norwalk,CT,United States of America,06851,III,1,123 km,41.1392537112,-73.4041418441
+Norwalk,CT,United States of America,06853,IV,2,118 km,41.0700416269,-73.4387967831
+Norwalk,CT,United States of America,06854,IV,2,120 km,41.0920546161,-73.4300884157
+Old Greenwich,CT,United States of America,06870,III,4,106 km,41.0321858936,-73.5682408105
+Ridgefield,CT,United States of America,06877,IV,1,125 km,41.3063908762,-73.5022138459
+Weston,CT,United States of America,06883,III,1,130 km,41.2281640546,-73.3724543391
+Redding,CT,United States of America,06896,II,1,133 km,41.3049684462,-73.3915384739
+Stamford,CT,United States of America,06901,IV,1,109 km,41.0540259293,-73.5390888395
+Stamford,CT,United States of America,06902,III,4,109 km,41.0612129776,-73.5487181938
+Stamford,CT,United States of America,06903,III,1,110 km,41.1358476724,-73.5733653241
+Stamford,CT,United States of America,06907,III,1,113 km,41.1003553141,-73.5200884333
+Bayonne,NJ,United States of America,07002,IV,1,55 km,40.6651884877,-74.1105051091
+Bloomfield,NJ,United States of America,07003,III,3,49 km,40.8094774043,-74.1868971661
+Caldwell,NJ,United States of America,07006,IV,2,43 km,40.8521762942,-74.2812481279
+Cedar Grove,NJ,United States of America,07009,IV,1,48 km,40.8564048375,-74.2281691072
+Clifton,NJ,United States of America,07011,V,2,55 km,40.8802214043,-74.1441192392
+Clifton,NJ,United States of America,07012,III,1,53 km,40.8472677798,-74.1601180044
+Clifton,NJ,United States of America,07013,II,1,52 km,40.8695028771,-74.172347228
+East Orange,NJ,United States of America,07017,III,1,47 km,40.7718708256,-74.2072457107
+Fanwood,NJ,United States of America,07023,III,1,32 km,40.6417528632,-74.3858777863
+Garfield,NJ,United States of America,07026,IV,2,58 km,40.8791109915,-74.1082052637
+Hoboken,NJ,United States of America,07030,IV,3,61 km,40.745437841,-74.0322206031
+Kearny,NJ,United States of America,07032,IV,1,54 km,40.7541465793,-74.1207474055
+Kenilworth,NJ,United States of America,07033,IV,2,39 km,40.6782572726,-74.2896051253
+Lake Hiawatha,NJ,United States of America,07034,IV,1,37 km,40.8814541193,-74.3821239967
+Livingston,NJ,United States of America,07039,IV,4,37 km,40.7855670289,-74.3291888644
+Maplewood,NJ,United States of America,07040,IV,3,41 km,40.7328496761,-74.2714576473
+Millburn,NJ,United States of America,07041,III,1,39 km,40.730295764,-74.2997023312
+Montclair,NJ,United States of America,07042,III,1,47 km,40.8136330308,-74.217697608
+Montclair,NJ,United States of America,07043,IV,3,49 km,40.8444433977,-74.2001671874
+Verona,NJ,United States of America,07044,IV,2,46 km,40.8329716953,-74.2428749373
+Mountain Lakes,NJ,United States of America,07046,IV,1,34 km,40.8921915836,-74.4412001183
+North Bergen,NJ,United States of America,07047,IV,1,62 km,40.7936528597,-74.0259381849
+West Orange,NJ,United States of America,07052,III,1,43 km,40.789249666,-74.2627202396
+Parsippany,NJ,United States of America,07054,III,2,34 km,40.8560056122,-74.4035000253
+Warren,NJ,United States of America,07059,VI,2,22 km,40.6320347013,-74.5146047574
+Plainfield,NJ,United States of America,07060,V,1,30 km,40.6162887209,-74.4215483385
+Clark,NJ,United States of America,07066,III,1,39 km,40.6204219837,-74.3127233653
+Rutherford,NJ,United States of America,07070,III,2,56 km,40.8259699161,-74.1096291926
+East Rutherford,NJ,United States of America,07073,II,1,58 km,40.8153479281,-74.0858598099
+Moonachie,NJ,United States of America,07074,III,1,61 km,40.8383161406,-74.0553645977
+Scotch Plains,NJ,United States of America,07076,III,2,33 km,40.6325176793,-74.3735109669
+South Orange,NJ,United States of America,07079,V,2,42 km,40.749102114,-74.2603132141
+South Plainfield,NJ,United States of America,07080,IV,2,32 km,40.5746342846,-74.4151998606
+Springfield,NJ,United States of America,07081,III,1,36 km,40.6994331117,-74.3255214113
+Weehawken,NJ,United States of America,07086,III,1,62 km,40.7684045598,-74.0207082933
+Westfield,NJ,United States of America,07090,III,3,35 km,40.6517880838,-74.3435769584
+West New York,NJ,United States of America,07093,III,1,63 km,40.7880478874,-74.011559786
+Woodbridge,NJ,United States of America,07095,III,3,43 km,40.5541452433,-74.2875803032
+Newark,NJ,United States of America,07102,IV,3,49 km,40.7357129284,-74.1729265939
+Newark,NJ,United States of America,07108,IV,1,47 km,40.7230085429,-74.2006021257
+Belleville,NJ,United States of America,07109,IV,1,51 km,40.7952175037,-74.1614632487
+Nutley,NJ,United States of America,07110,III,1,52 km,40.8193061149,-74.1569185467
+Elizabeth,NJ,United States of America,07201,III,1,49 km,40.6631266931,-74.1778760108
+Hillside,NJ,United States of America,07205,III,1,44 km,40.6960782506,-74.2290213806
+Jersey City,NJ,United States of America,07302,III,1,60 km,40.7201737314,-74.0465586941
+Jersey City,NJ,United States of America,07304,IV,4,58 km,40.7172221412,-74.0724002373
+Jersey City,NJ,United States of America,07306,III,2,58 km,40.7376824876,-74.0690805243
+Jersey City,NJ,United States of America,07307,IV,2,59 km,40.7519079156,-74.05374238
+Jersey City,NJ,United States of America,07310,IV,1,61 km,40.7306250512,-74.0387418071
+Allendale,NJ,United States of America,07401,III,3,64 km,41.0331185775,-74.1330248845
+Bloomingdale,NJ,United States of America,07403,IV,1,51 km,41.029615263,-74.3326774327
+Butler,NJ,United States of America,07405,IV,3,44 km,40.9864091236,-74.383360577
+Fair Lawn,NJ,United States of America,07410,III,2,60 km,40.9358796115,-74.1177457268
+Hamburg,NJ,United States of America,07419,IV,1,52 km,41.1481861855,-74.5676292961
+Hewitt,NJ,United States of America,07421,IV,1,61 km,41.1678285208,-74.3558174233
+Little Falls,NJ,United States of America,07424,III,1,50 km,40.8830578719,-74.20716349
+Mahwah,NJ,United States of America,07430,III,1,64 km,41.0819025122,-74.1860008446
+Oakland,NJ,United States of America,07436,IV,1,57 km,41.031421463,-74.2410492685
+Ringwood,NJ,United States of America,07456,IV,3,60 km,41.1075509161,-74.2746427831
+Saddle River,NJ,United States of America,07458,IV,1,67 km,41.0459763671,-74.0969952425
+Vernon,NJ,United States of America,07462,III,3,58 km,41.190569682,-74.4965831255
+Wayne,NJ,United States of America,07470,III,1,51 km,40.9464816566,-74.2477916816
+Paterson,NJ,United States of America,07505,IV,2,55 km,40.9167491759,-74.1720928172
+Hackensack,NJ,United States of America,07601,IV,1,63 km,40.8890813187,-74.0461002388
+Hasbrouck Heights,NJ,United States of America,07604,II,1,60 km,40.8622185572,-74.0743173805
+Cresskill,NJ,United States of America,07626,III,1,72 km,40.9403450349,-73.9588639658
+Emerson,NJ,United States of America,07630,III,2,68 km,40.9743089343,-74.027152272
+Englewood,NJ,United States of America,07631,III,2,69 km,40.8917558135,-73.9735633159
+Haworth,NJ,United States of America,07641,III,1,70 km,40.9620589187,-73.9978647229
+Hillsdale,NJ,United States of America,07642,III,1,69 km,41.0071116116,-74.0445196403
+Montvale,NJ,United States of America,07645,III,2,71 km,41.0531302993,-74.049549497
+Paramus,NJ,United States of America,07652,IV,1,64 km,40.9453327573,-74.0715035471
+Park Ridge,NJ,United States of America,07656,III,1,70 km,41.0356622774,-74.0430049685
+Teaneck,NJ,United States of America,07666,IV,1,66 km,40.8899338979,-74.0105598245
+Tenafly,NJ,United States of America,07670,III,1,71 km,40.9191527924,-73.9566827862
+Westwood,NJ,United States of America,07675,IV,2,72 km,41.0092402233,-74.0044989087
+Red Bank,NJ,United States of America,07701,III,1,69 km,40.3578727114,-74.082266816
+Asbury Park,NJ,United States of America,07712,III,1,78 km,40.2464035545,-74.051191394
+Atlantic Highlands,NJ,United States of America,07716,II,1,69 km,40.3998456667,-74.0395144849
+Colts Neck,NJ,United States of America,07722,IV,1,68 km,40.2903409537,-74.1678275107
+Eatontown,NJ,United States of America,07724,I,1,73 km,40.2935208726,-74.0780612965
+Englishtown,NJ,United States of America,07726,III,4,58 km,40.2741101663,-74.3554990718
+Farmingdale,NJ,United States of America,07727,IV,1,74 km,40.2040588922,-74.1674207589
+Freehold,NJ,United States of America,07728,III,2,66 km,40.2263003416,-74.2869868479
+Howell,NJ,United States of America,07731,III,1,77 km,40.1487018581,-74.1973094068
+Holmdel,NJ,United States of America,07733,III,3,61 km,40.3767391442,-74.1727515413
+Keansburg,NJ,United States of America,07734,IV,1,60 km,40.4438903246,-74.1348804176
+Keyport,NJ,United States of America,07735,V,2,56 km,40.4322844082,-74.1966839912
+Matawan,NJ,United States of America,07747,IV,2,53 km,40.4129817619,-74.2516570878
+Morganville,NJ,United States of America,07751,IV,2,57 km,40.3618043352,-74.2572308501
+Oakhurst,NJ,United States of America,07755,III,1,79 km,40.2635858208,-74.0227876223
+Ocean Grove,NJ,United States of America,07756,III,2,83 km,40.2120121732,-74.0078879721
+Mine Hill,NJ,United States of America,07803,V,1,23 km,40.8780484853,-74.6007154566
+Andover,NJ,United States of America,07821,IV,1,29 km,40.9610212137,-74.7595256565
+Blairstown,NJ,United States of America,07825,III,1,34 km,40.9729106749,-74.9561188807
+Califon,NJ,United States of America,07830,VI,2,5 km,40.7171366206,-74.7953382318
+Hackettstown,NJ,United States of America,07840,V,3,19 km,40.8622445112,-74.8310858642
+Hopatcong,NJ,United States of America,07843,VI,1,28 km,40.9412042142,-74.6627592455
+Landing,NJ,United States of America,07850,IV,2,24 km,40.9069801622,-74.6613802887
+Long Valley,NJ,United States of America,07853,VII,1,10 km,40.7858022382,-74.7859838708
+Mount Arlington,NJ,United States of America,07856,III,1,26 km,40.9214037754,-74.6375833595
+Newton,NJ,United States of America,07860,III,2,40 km,41.0596208872,-74.8117073467
+Port Murray,NJ,United States of America,07865,III,1,15 km,40.7855908803,-74.9029364284
+Rockaway,NJ,United States of America,07866,IV,2,36 km,40.952526669,-74.4872643002
+Randolph,NJ,United States of America,07869,IV,2,22 km,40.8443114863,-74.5797237835
+Sparta,NJ,United States of America,07871,VII,1,40 km,41.0465616033,-74.6246488488
+Stanhope,NJ,United States of America,07874,V,3,25 km,40.9227041279,-74.7101106832
+Succasunna,NJ,United States of America,07876,IV,2,19 km,40.8552769831,-74.6544137746
+Wharton,NJ,United States of America,07885,VI,1,30 km,40.9358402034,-74.5828332927
+Summit,NJ,United States of America,07901,IV,3,33 km,40.7147305695,-74.3653195376
+Basking Ridge,NJ,United States of America,07920,V,3,17 km,40.6805857592,-74.5590925158
+Chatham,NJ,United States of America,07928,III,1,29 km,40.7267784426,-74.4124844275
+East Hanover,NJ,United States of America,07936,II,1,35 km,40.8188043041,-74.3639946828
+Mendham,NJ,United States of America,07945,IV,1,16 km,40.7805957754,-74.5983207807
+Greystone Park,NJ,United States of America,07950,III,2,28 km,40.8450960246,-74.4831777704
+Morristown,NJ,United States of America,07960,V,2,23 km,40.7829920653,-74.5018094359
+New Providence,NJ,United States of America,07974,IV,1,30 km,40.6978322295,-74.4034239211
+Stirling,NJ,United States of America,07980,III,1,23 km,40.6816133864,-74.4898413958
+Whippany,NJ,United States of America,07981,IV,1,31 km,40.8221953539,-74.4195261083
+Cherry Hill,NJ,United States of America,08002,III,3,88 km,39.9311576352,-75.0250581587
+Cherry Hill,NJ,United States of America,08003,IV,1,92 km,39.8832841072,-74.9722646387
+Berlin,NJ,United States of America,08009,IV,1,106 km,39.7577267019,-74.9319968291
+Blackwood,NJ,United States of America,08012,III,1,105 km,39.783848177,-75.0558645676
+Burlington,NJ,United States of America,08016,IV,3,70 km,40.0706942872,-74.8316357991
+Columbus,NJ,United States of America,08022,IV,2,70 km,40.0705886888,-74.702178948
+Gibbstown,NJ,United States of America,08027,II,1,107 km,39.8257006656,-75.2788594335
+Glassboro,NJ,United States of America,08028,III,1,116 km,39.6941874575,-75.1223154894
+Cherry Hill,NJ,United States of America,08034,II,1,91 km,39.9059298727,-74.999238964
+Haddon Heights,NJ,United States of America,08035,III,1,95 km,39.879144614,-75.0647676229
+Hammonton,NJ,United States of America,08037,IV,1,118 km,39.6327302513,-74.7709257115
+Lawnside,NJ,United States of America,08045,II,1,95 km,39.8670931711,-75.0296122279
+Lumberton,NJ,United States of America,08048,III,2,83 km,39.9572844897,-74.8083580214
+Manahawkin,NJ,United States of America,08050,III,2,118 km,39.7102516311,-74.2655297479
+Mantua,NJ,United States of America,08051,IV,1,108 km,39.7862050932,-75.181284077
+Marlton,NJ,United States of America,08053,III,3,94 km,39.8627364843,-74.8956365453
+Mount Laurel,NJ,United States of America,08054,III,3,84 km,39.9480505484,-74.9044666398
+Medford,NJ,United States of America,08055,IV,1,93 km,39.8657605531,-74.8210975496
+Moorestown,NJ,United States of America,08057,IV,3,82 km,39.9793806145,-74.9410342787
+Mount Holly,NJ,United States of America,08060,IV,3,77 km,40.0092023201,-74.7914411085
+Pennsville,NJ,United States of America,08070,II,1,135 km,39.6293160287,-75.5075767
+Delanco,NJ,United States of America,08075,IV,1,76 km,40.0271998517,-74.9496178032
+Salem,NJ,United States of America,08079,III,1,142 km,39.5310381598,-75.442427804
+Sewell,NJ,United States of America,08080,III,4,109 km,39.7583326416,-75.1181741001
+Sicklerville,NJ,United States of America,08081,III,1,109 km,39.7354986348,-74.9780221951
+Stratford,NJ,United States of America,08084,IV,2,99 km,39.8288873604,-75.0155613059
+Swedesboro,NJ,United States of America,08085,III,1,115 km,39.7555792218,-75.3285787215
+Shamong,NJ,United States of America,08088,IV,2,99 km,39.8160694126,-74.6414960116
+Deptford,NJ,United States of America,08096,III,3,102 km,39.8289791338,-75.1272839548
+Woodstown,NJ,United States of America,08098,III,1,128 km,39.6374467103,-75.3283065187
+Audubon,NJ,United States of America,08106,IV,1,94 km,39.8910918339,-75.073733892
+Collingswood,NJ,United States of America,08108,III,2,91 km,39.9151302152,-75.0624628217
+Merchantville,NJ,United States of America,08109,III,1,87 km,39.9498292011,-75.0513328134
+Brigantine,NJ,United States of America,08203,III,1,148 km,39.3987906428,-74.376612494
+Cape May Court House,NJ,United States of America,08210,II,1,176 km,39.1135444432,-74.8263552523
+Ocean View,NJ,United States of America,08230,III,1,165 km,39.2099150845,-74.7121558463
+Sea Isle City,NJ,United States of America,08243,IV,1,172 km,39.1514969585,-74.6970325336
+Atlantic City,NJ,United States of America,08401,III,1,150 km,39.3717459983,-74.454105462
+Belle Mead,NJ,United States of America,08502,V,2,30 km,40.4476382309,-74.6557280497
+Cream Ridge,NJ,United States of America,08514,IV,1,67 km,40.1314717663,-74.4983855693
+Chesterfield,NJ,United States of America,08515,III,1,64 km,40.1299265528,-74.6530467936
+Florence,NJ,United States of America,08518,III,1,65 km,40.1172493453,-74.8075533257
+Hightstown,NJ,United States of America,08520,III,2,54 km,40.252301859,-74.5223982112
+Hopewell,NJ,United States of America,08525,IV,1,34 km,40.397864498,-74.7826003798
+Jackson,NJ,United States of America,08527,III,1,74 km,40.1054651579,-74.3535975895
+Lambertville,NJ,United States of America,08530,III,1,38 km,40.374802215,-74.8969882467
+Pennington,NJ,United States of America,08534,IV,4,41 km,40.3303873852,-74.7913240386
+Plainsboro,NJ,United States of America,08536,IV,1,43 km,40.3337652953,-74.5854124621
+Princeton,NJ,United States of America,08540,IV,8,38 km,40.3658049996,-74.6567792634
+Princeton Junction,NJ,United States of America,08550,III,2,48 km,40.2828318621,-74.6216198874
+Skillman,NJ,United States of America,08558,IV,1,32 km,40.4136227498,-74.7043688784
+Stockton,NJ,United States of America,08559,IV,1,34 km,40.4405161884,-74.9707807918
+Titusville,NJ,United States of America,08560,III,1,44 km,40.3138135563,-74.8551438371
+Trenton,NJ,United States of America,08610,III,1,57 km,40.1926356658,-74.7142095823
+Ewing,NJ,United States of America,08618,III,1,50 km,40.2478286246,-74.7880757242
+Trenton,NJ,United States of America,08619,IV,4,51 km,40.2424669862,-74.696586691
+Trenton,NJ,United States of America,08629,III,1,53 km,40.220943818,-74.7313711434
+Ewing,NJ,United States of America,08638,III,1,49 km,40.2554315861,-74.7628222745
+Trenton,NJ,United States of America,08648,III,4,46 km,40.2832009355,-74.7214367351
+Trenton,NJ,United States of America,08690,III,2,53 km,40.2270982565,-74.6582190774
+Lakewood,NJ,United States of America,08701,IV,1,84 km,40.0764801748,-74.2029784072
+Bayville,NJ,United States of America,08721,II,2,100 km,39.9077988653,-74.1998526831
+Brick,NJ,United States of America,08723,III,2,91 km,40.0408610731,-74.1187653453
+Forked River,NJ,United States of America,08731,III,1,102 km,39.8567599385,-74.2757358654
+Point Pleasant Beach,NJ,United States of America,08742,II,1,91 km,40.0813114615,-74.0615638547
+Seaside Heights,NJ,United States of America,08751,II,1,102 km,39.9486175409,-74.0756195379
+Toms River,NJ,United States of America,08753,III,8,94 km,39.9823584672,-74.1604587258
+Toms River,NJ,United States of America,08755,III,1,89 km,40.0098968505,-74.2242866829
+Manchester Township,NJ,United States of America,08759,III,1,89 km,39.9582726492,-74.3750740264
+Annandale,NJ,United States of America,08801,IV,2,14 km,40.6284423943,-74.8868809124
+Bound Brook,NJ,United States of America,08805,V,2,23 km,40.5718094293,-74.5400060804
+Bridgewater,NJ,United States of America,08807,VI,3,17 km,40.5926522327,-74.6208101879
+Dunellen,NJ,United States of America,08812,V,3,26 km,40.59899478,-74.480599326
+East Brunswick,NJ,United States of America,08816,IV,6,42 km,40.4322640137,-74.4130389296
+Edison,NJ,United States of America,08817,IV,3,37 km,40.5171634735,-74.3943943669
+Flemington,NJ,United States of America,08822,IV,2,22 km,40.5231454187,-74.86206658
+Kendall Park,NJ,United States of America,08824,IV,2,36 km,40.4204874762,-74.5530942611
+Glen Gardner,NJ,United States of America,08826,V,2,13 km,40.719350233,-74.9070013302
+Hampton,NJ,United States of America,08827,III,1,19 km,40.6716900157,-74.9725556151
+High Bridge,NJ,United States of America,08829,III,1,13 km,40.6682932193,-74.8952489566
+Monroe Township,NJ,United States of America,08831,IV,1,50 km,40.3286207941,-74.4315311161
+Lebanon,NJ,United States of America,08833,V,2,9 km,40.6435063413,-74.8189135797
+Metuchen,NJ,United States of America,08840,IV,2,38 km,40.543709176,-74.3578759863
+Hillsborough,NJ,United States of America,08844,IV,7,24 km,40.4983090027,-74.6726874538
+Middlesex,NJ,United States of America,08846,III,1,26 km,40.5745131271,-74.500696926
+Milford,NJ,United States of America,08848,IV,3,31 km,40.5950737268,-75.0954572135
+Milltown,NJ,United States of America,08850,V,1,39 km,40.4493148072,-74.4403545897
+Piscataway,NJ,United States of America,08854,IV,3,30 km,40.5463398187,-74.463498817
+Old Bridge,NJ,United States of America,08857,III,1,50 km,40.3904840106,-74.3307623871
+Parlin,NJ,United States of America,08859,IV,2,47 km,40.457824312,-74.3062544396
+Perth Amboy,NJ,United States of America,08861,IV,1,45 km,40.5221761485,-74.2749414449
+Fords,NJ,United States of America,08863,IV,2,42 km,40.5383985316,-74.3115284431
+Phillipsburg,NJ,United States of America,08865,IV,2,33 km,40.7076037419,-75.1489644517
+Sayreville,NJ,United States of America,08872,II,1,44 km,40.4627116598,-74.3388170626
+Somerset,NJ,United States of America,08873,IV,3,29 km,40.4990632468,-74.5332289668
+Somerville,NJ,United States of America,08876,IV,5,14 km,40.5867159392,-74.689588551
+South Bound Brook,NJ,United States of America,08880,IV,1,26 km,40.5534643352,-74.5280596836
+Spotswood,NJ,United States of America,08884,IV,2,46 km,40.3951577296,-74.3911305863
+New Brunswick,NJ,United States of America,08901,III,5,36 km,40.4854432792,-74.443463716
+North Brunswick,NJ,United States of America,08902,III,1,37 km,40.4416718375,-74.4853849638
+New York,NY,United States of America,10001,III,2,64 km,40.7502680143,-73.9969227188
+New York,NY,United States of America,10002,IV,5,65 km,40.7162030472,-73.9857011766
+New York,NY,United States of America,10003,III,5,65 km,40.7319211503,-73.9888868858
+New York,NY,United States of America,10004,II,1,62 km,40.6895471232,-74.0192929971
+New York,NY,United States of America,10007,III,4,63 km,40.7144994924,-74.0094846678
+New York,NY,United States of America,10009,III,4,66 km,40.7266173156,-73.9790981245
+New York,NY,United States of America,10010,III,1,65 km,40.7391540689,-73.9830758024
+New York,NY,United States of America,10011,III,1,64 km,40.7414988835,-74.0006324084
+New York,NY,United States of America,10012,IV,4,64 km,40.7255352401,-73.9979716739
+New York,NY,United States of America,10013,II,1,63 km,40.7203474934,-74.0050954577
+New York,NY,United States of America,10014,IV,2,63 km,40.7338898192,-74.0066363626
+New York,NY,United States of America,10016,III,2,66 km,40.7449390004,-73.978227344
+New York,NY,United States of America,10017,IV,3,66 km,40.7523585387,-73.9731925472
+New York,NY,United States of America,10018,III,1,65 km,40.7553445728,-73.9931205894
+New York,NY,United States of America,10019,III,3,65 km,40.7654423025,-73.9871745365
+New York,NY,United States of America,10020,IV,1,66 km,40.7589040826,-73.9790181954
+New York,NY,United States of America,10021,III,2,68 km,40.7695403077,-73.9588427888
+New York,NY,United States of America,10023,IV,6,66 km,40.7741713935,-73.9786842836
+New York,NY,United States of America,10024,IV,2,67 km,40.7891917656,-73.9708192089
+New York,NY,United States of America,10025,III,2,68 km,40.7968245414,-73.963702078
+New York,NY,United States of America,10026,IV,3,69 km,40.8030431878,-73.9533629283
+New York,NY,United States of America,10027,III,4,69 km,40.8115626897,-73.9528986914
+New York,NY,United States of America,10028,IV,2,68 km,40.7764139846,-73.9529092189
+New York,NY,United States of America,10031,IV,4,69 km,40.8248974759,-73.9500235043
+New York,NY,United States of America,10032,III,1,70 km,40.8388037402,-73.9419005426
+New York,NY,United States of America,10034,III,1,73 km,40.8688238859,-73.9217005979
+New York,NY,United States of America,10036,III,1,65 km,40.7593087733,-73.9897698332
+New York,NY,United States of America,10037,III,1,70 km,40.8134622891,-73.9372182329
+New York,NY,United States of America,10038,IV,2,63 km,40.7094195563,-74.0029545848
+New York,NY,United States of America,10040,III,1,72 km,40.8581349419,-73.9291886136
+New York,NY,United States of America,10044,IV,1,68 km,40.7618572612,-73.949949799
+New York,NY,United States of America,10065,III,3,67 km,40.7643114304,-73.9630067308
+New York,NY,United States of America,10075,IV,1,68 km,40.7733397785,-73.9559589924
+New York,NY,United States of America,10128,II,2,68 km,40.781735885,-73.9504587361
+New York,NY,United States of America,10280,IV,2,62 km,40.7100166258,-74.0156454702
+Staten Island,NY,United States of America,10301,IV,1,56 km,40.6268275006,-74.0960664255
+Staten Island,NY,United States of America,10302,V,2,53 km,40.6308430877,-74.1377752039
+Staten Island,NY,United States of America,10304,III,2,57 km,40.6042657042,-74.0967719009
+Staten Island,NY,United States of America,10305,IV,1,59 km,40.5961335218,-74.0750533042
+Staten Island,NY,United States of America,10306,IV,2,56 km,40.5660122381,-74.1200407978
+Staten Island,NY,United States of America,10307,VI,1,48 km,40.5080403929,-74.2421597671
+Staten Island,NY,United States of America,10314,V,3,51 km,40.59648332,-74.1659931951
+Bronx,NY,United States of America,10451,IV,1,71 km,40.82072832,-73.9237879726
+Bronx,NY,United States of America,10456,IV,1,73 km,40.8304580916,-73.9077672253
+Bronx,NY,United States of America,10463,III,2,74 km,40.8813812367,-73.9080054506
+Bronx,NY,United States of America,10465,III,1,80 km,40.8276533549,-73.8226613973
+Bronx,NY,United States of America,10468,III,2,74 km,40.8697555612,-73.8989241792
+Bronx,NY,United States of America,10471,III,1,75 km,40.8983833739,-73.897641525
+Bronx,NY,United States of America,10472,III,2,76 km,40.8296738058,-73.8701778961
+Bronx,NY,United States of America,10475,III,1,81 km,40.8746954922,-73.8268589595
+Ardsley,NY,United States of America,10502,III,1,84 km,41.0095589467,-73.8419954864
+Bedford,NY,United States of America,10506,IV,1,108 km,41.1894791015,-73.6351083663
+Briarcliff Manor,NY,United States of America,10510,III,1,91 km,41.1408894103,-73.8347749336
+Carmel,NY,United States of America,10512,IV,1,120 km,41.446353033,-73.7122922197
+Croton on Hudson,NY,United States of America,10520,III,4,94 km,41.2205205439,-73.8702757384
+Dobbs Ferry,NY,United States of America,10522,IV,2,82 km,41.0123314954,-73.8647033547
+Granite Springs,NY,United States of America,10527,III,1,108 km,41.3175975507,-73.764122521
+Hartsdale,NY,United States of America,10530,III,1,87 km,41.0221135087,-73.8087300189
+Hawthorne,NY,United States of America,10532,III,1,91 km,41.0961485097,-73.8036543434
+Katonah,NY,United States of America,10536,IV,1,109 km,41.270177896,-73.6909472183
+Larchmont,NY,United States of America,10538,II,1,88 km,40.9370079648,-73.757013066
+Mahopac,NY,United States of America,10541,III,2,112 km,41.375807706,-73.7513478922
+Mamaroneck,NY,United States of America,10543,IV,2,90 km,40.9529739405,-73.7369377804
+Montrose,NY,United States of America,10548,IV,1,91 km,41.2464061272,-73.9385791011
+Peekskill,NY,United States of America,10566,II,1,95 km,41.285006495,-73.9160846573
+Cortlandt Manor,NY,United States of America,10567,IV,1,97 km,41.2884991252,-73.8967000513
+Port Chester,NY,United States of America,10573,III,2,97 km,41.0169187369,-73.6773442426
+Pound Ridge,NY,United States of America,10576,II,1,114 km,41.2133195243,-73.5730631613
+Purchase,NY,United States of America,10577,IV,2,95 km,41.0384278156,-73.7125613831
+Rye,NY,United States of America,10580,III,3,94 km,40.9791271565,-73.6939454805
+Somers,NY,United States of America,10589,IV,1,113 km,41.3279911913,-73.6933921772
+South Salem,NY,United States of America,10590,III,1,119 km,41.2557907697,-73.5384332148
+Tarrytown,NY,United States of America,10591,IV,3,87 km,41.0833329238,-73.8457297352
+Valhalla,NY,United States of America,10595,II,1,92 km,41.0863968772,-73.782441075
+Waccabuc,NY,United States of America,10597,IV,1,117 km,41.2955369146,-73.596007375
+Yorktown Heights,NY,United States of America,10598,IV,1,103 km,41.2839505784,-73.7964144729
+White Plains,NY,United States of America,10601,IV,1,91 km,41.0328127262,-73.7653586242
+West Harrison,NY,United States of America,10604,III,1,94 km,41.0552786447,-73.7353794937
+Tuckahoe,NY,United States of America,10707,III,1,83 km,40.9592458247,-73.8229103109
+Bronxville,NY,United States of America,10708,II,1,82 km,40.938245761,-73.8309493321
+New Rochelle,NY,United States of America,10801,III,2,85 km,40.9179353136,-73.7854021479
+Suffern,NY,United States of America,10901,IV,6,72 km,41.131829581,-74.1092943015
+Blauvelt,NY,United States of America,10913,III,1,78 km,41.0683604013,-73.9569726424
+Campbell Hall,NY,United States of America,10916,IV,1,92 km,41.443337292,-74.2512845423
+Chester,NY,United States of America,10918,IV,1,83 km,41.3499789517,-74.256161541
+Florida,NY,United States of America,10921,V,2,76 km,41.3266007509,-74.3659617257
+Garnerville,NY,United States of America,10923,IV,1,84 km,41.2026049433,-74.0005596073
+Middletown,NY,United States of America,10940,IV,1,86 km,41.4485732303,-74.4707326597
+Monroe,NY,United States of America,10950,IV,1,82 km,41.3147553317,-74.2011317983
+Monsey,NY,United States of America,10952,III,1,73 km,41.1143401982,-74.0794418354
+Nanuet,NY,United States of America,10954,III,1,76 km,41.0997378171,-74.0124197034
+New City,NY,United States of America,10956,IV,2,81 km,41.1563258986,-73.9931162888
+New Hampton,NY,United States of America,10958,IV,1,79 km,41.375132621,-74.4310379572
+Piermont,NY,United States of America,10968,III,2,80 km,41.039621007,-73.9174688967
+Stony Point,NY,United States of America,10980,IV,1,84 km,41.2393311023,-74.0421605415
+Tuxedo Park,NY,United States of America,10987,III,1,71 km,41.2037481826,-74.2345049662
+Warwick,NY,United States of America,10990,IV,2,70 km,41.2628026432,-74.3659247657
+Westtown,NY,United States of America,10998,V,1,72 km,41.3306253044,-74.5422122457
+Floral Park,NY,United States of America,11001,IV,2,88 km,40.7213763351,-73.7073581437
+Elmont,NY,United States of America,11003,IV,1,89 km,40.6992490249,-73.7056641159
+Great Neck,NY,United States of America,11021,III,1,87 km,40.7866446414,-73.7284971816
+Great Neck,NY,United States of America,11023,IV,1,87 km,40.7990392246,-73.7345469308
+Manhasset,NY,United States of America,11030,III,1,90 km,40.7936102241,-73.6888011851
+New Hyde Park,NY,United States of America,11040,III,1,91 km,40.7454176246,-73.6796636823
+New Hyde Park,NY,United States of America,11042,III,1,89 km,40.758359901,-73.6969092387
+Port Washington,NY,United States of America,11050,III,1,91 km,40.8389559612,-73.6913826794
+Long Island City,NY,United States of America,11101,III,8,69 km,40.7456765081,-73.938590789
+Astoria,NY,United States of America,11102,III,5,70 km,40.7715641742,-73.9264799952
+Astoria,NY,United States of America,11103,III,3,71 km,40.7628888887,-73.9132695934
+Sunnyside,NY,United States of America,11104,IV,1,71 km,40.7449047401,-73.9205346109
+Astoria,NY,United States of America,11105,IV,2,72 km,40.7790978144,-73.9071849876
+Astoria,NY,United States of America,11106,III,1,70 km,40.7617480084,-73.931687528
+Long Island City,NY,United States of America,11109,VI,1,67 km,40.7444414835,-73.9575409209
+Brooklyn,NY,United States of America,11201,III,5,65 km,40.6947360121,-73.9898416876
+Brooklyn,NY,United States of America,11203,IV,1,70 km,40.649607132,-73.9341808033
+Brooklyn,NY,United States of America,11205,III,1,67 km,40.6938764096,-73.964196651
+Brooklyn,NY,United States of America,11206,IV,1,69 km,40.7019260555,-73.9423233905
+Brooklyn,NY,United States of America,11209,IV,7,62 km,40.6223710976,-74.0303446941
+Brooklyn,NY,United States of America,11211,III,4,68 km,40.7135290604,-73.9514213684
+Brooklyn,NY,United States of America,11213,IV,2,69 km,40.6712198902,-73.9364568165
+Brooklyn,NY,United States of America,11215,IV,4,66 km,40.6656022055,-73.9797751043
+Brooklyn,NY,United States of America,11216,III,3,68 km,40.6807233992,-73.9492796146
+Brooklyn,NY,United States of America,11217,III,4,66 km,40.6823045862,-73.9795618105
+Brooklyn,NY,United States of America,11218,IV,6,66 km,40.6431841508,-73.9763819516
+Brooklyn,NY,United States of America,11220,IV,2,63 km,40.6411712883,-74.0167154344
+Brooklyn,NY,United States of America,11221,III,3,70 km,40.6912784598,-73.9277255849
+Brooklyn,NY,United States of America,11222,III,5,68 km,40.7282863589,-73.947158689
+Brooklyn,NY,United States of America,11224,II,1,66 km,40.5768150256,-73.9880633079
+Brooklyn,NY,United States of America,11225,III,2,68 km,40.6631301696,-73.9537232629
+Brooklyn,NY,United States of America,11228,V,1,63 km,40.6164537663,-74.0132556553
+Brooklyn,NY,United States of America,11230,III,2,67 km,40.6219406776,-73.9655145236
+Brooklyn,NY,United States of America,11231,V,2,63 km,40.6776346582,-74.0047314262
+Brooklyn,NY,United States of America,11233,III,1,71 km,40.6780809142,-73.9197707076
+Brooklyn,NY,United States of America,11235,V,1,70 km,40.5841742087,-73.9461797677
+Brooklyn,NY,United States of America,11236,III,1,72 km,40.6400013309,-73.9011277606
+Brooklyn,NY,United States of America,11238,IV,2,67 km,40.6788458971,-73.9638205903
+Flushing,NY,United States of America,11354,IV,1,79 km,40.7685367355,-73.8271692071
+Flushing,NY,United States of America,11355,V,2,79 km,40.7512388531,-73.8213813577
+College Point,NY,United States of America,11356,IV,1,78 km,40.7849461975,-73.8417863146
+Bayside,NY,United States of America,11360,III,1,83 km,40.7806722305,-73.7823108984
+Bayside,NY,United States of America,11361,V,1,83 km,40.7641775387,-73.7723374941
+Fresh Meadows,NY,United States of America,11365,III,1,81 km,40.7398842843,-73.7947026112
+Flushing,NY,United States of America,11367,IV,1,78 km,40.7302835219,-73.8262937824
+Corona,NY,United States of America,11368,IV,1,76 km,40.7497344508,-73.8529292767
+East Elmhurst,NY,United States of America,11370,III,1,73 km,40.7637364539,-73.8909129742
+Jackson Heights,NY,United States of America,11372,III,2,74 km,40.7516895899,-73.88357881
+Elmhurst,NY,United States of America,11373,IV,1,74 km,40.7388054259,-73.8783884273
+Forest Hills,NY,United States of America,11375,IV,4,77 km,40.7206736951,-73.8463251706
+Woodside,NY,United States of America,11377,IV,2,72 km,40.7452251211,-73.9048636822
+Ridgewood,NY,United States of America,11385,III,1,74 km,40.70125812,-73.8833988624
+Kew Gardens,NY,United States of America,11415,IV,4,78 km,40.708343773,-73.8286084506
+Ozone Park,NY,United States of America,11417,III,1,77 km,40.6763419039,-73.8444786364
+Richmond Hill,NY,United States of America,11418,IV,1,78 km,40.698328073,-73.8321904183
+South Ozone Park,NY,United States of America,11420,III,1,79 km,40.6733593664,-73.8176278291
+Rosedale,NY,United States of America,11422,II,1,86 km,40.6614487895,-73.736033459
+Bellerose,NY,United States of America,11426,III,1,87 km,40.7370298625,-73.7242114144
+Jamaica,NY,United States of America,11433,V,1,82 km,40.6981146912,-73.7875299379
+Mineola,NY,United States of America,11501,III,1,94 km,40.74653823,-73.639241691
+Albertson,NY,United States of America,11507,III,1,93 km,40.7707874082,-73.6521029301
+Cedarhurst,NY,United States of America,11516,III,1,87 km,40.6264945642,-73.7279589436
+Garden City,NY,United States of America,11530,II,2,94 km,40.7273875307,-73.6359310922
+Glen Cove,NY,United States of America,11542,IV,1,97 km,40.870598517,-73.6282838265
+East Meadow,NY,United States of America,11554,IV,2,101 km,40.7196776477,-73.5602696282
+Long Beach,NY,United States of America,11561,IV,2,95 km,40.5888671053,-73.6395148847
+Malverne,NY,United States of America,11565,III,2,92 km,40.6750585928,-73.6715651452
+Old Westbury,NY,United States of America,11568,IV,1,98 km,40.7866068496,-73.59694664
+Rockville Centre,NY,United States of America,11570,IV,2,94 km,40.6669521903,-73.6387776189
+Oceanside,NY,United States of America,11572,III,1,95 km,40.6332608645,-73.6373667116
+Roslyn,NY,United States of America,11576,IV,1,94 km,40.7963971479,-73.6490087097
+Roslyn Heights,NY,United States of America,11577,IV,1,95 km,40.7829974422,-73.6366325267
+Valley Stream,NY,United States of America,11580,II,1,89 km,40.6749373244,-73.7038478289
+Westbury,NY,United States of America,11590,III,4,100 km,40.7554052152,-73.5745224754
+Rockaway Park,NY,United States of America,11694,IV,2,78 km,40.5751213247,-73.8517035714
+West Babylon,NY,United States of America,11704,III,1,117 km,40.7222832901,-73.365490842
+Bay Shore,NY,United States of America,11706,III,3,127 km,40.7194610829,-73.2546329919
+Bellmore,NY,United States of America,11710,II,1,103 km,40.6762948065,-73.534465608
+Bohemia,NY,United States of America,11716,II,1,137 km,40.7703435339,-73.1292784858
+Brentwood,NY,United States of America,11717,III,1,127 km,40.7841540001,-73.2524429403
+Brightwaters,NY,United States of America,11718,III,1,126 km,40.7134304089,-73.2620550177
+Commack,NY,United States of America,11725,III,1,125 km,40.8405442484,-73.2807242449
+Coram,NY,United States of America,11727,III,2,149 km,40.8796988402,-73.0017699506
+Deer Park,NY,United States of America,11729,III,1,121 km,40.7622603892,-73.3219054374
+East Setauket,NY,United States of America,11733,IV,2,141 km,40.9351693796,-73.1064054576
+Farmingdale,NY,United States of America,11735,III,1,112 km,40.7300313691,-73.4303513301
+Holtsville,NY,United States of America,11742,III,2,145 km,40.8099555856,-73.0405518528
+Huntington,NY,United States of America,11743,IV,4,114 km,40.8778659056,-73.4253878163
+Huntington Station,NY,United States of America,11746,IV,5,118 km,40.813479531,-73.360290216
+Melville,NY,United States of America,11747,III,2,114 km,40.7837694105,-73.4106503229
+Islandia,NY,United States of America,11749,IV,1,134 km,40.8062172344,-73.1727770017
+Islip,NY,United States of America,11751,III,1,130 km,40.7333412829,-73.2139971542
+Medford,NY,United States of America,11763,III,1,150 km,40.8243371047,-72.980019794
+Miller Place,NY,United States of America,11764,IV,3,152 km,40.934316519,-72.9752374716
+Mount Sinai,NY,United States of America,11766,II,1,149 km,40.9339981327,-73.0149069512
+Northport,NY,United States of America,11768,III,1,123 km,40.909655837,-73.3238461234
+Patchogue,NY,United States of America,11772,III,1,151 km,40.7600615831,-72.9674998005
+Port Jefferson,NY,United States of America,11777,III,1,145 km,40.9494675805,-73.0621866159
+Ronkonkoma,NY,United States of America,11779,III,1,139 km,40.8123643275,-73.1151594789
+Sayville,NY,United States of America,11782,IV,1,141 km,40.7362923715,-73.0801834713
+Selden,NY,United States of America,11784,III,1,146 km,40.8679012548,-73.0407392976
+Smithtown,NY,United States of America,11787,V,1,131 km,40.853326348,-73.2104977735
+Hauppauge,NY,United States of America,11788,III,1,131 km,40.8180978238,-73.2123593188
+Stony Brook,NY,United States of America,11790,III,1,139 km,40.9036626921,-73.1271943338
+Wantagh,NY,United States of America,11793,III,1,105 km,40.6836094694,-73.510973142
+Stony Brook,NY,United States of America,11794,III,2,140 km,40.9137634602,-73.1224180913
+West Islip,NY,United States of America,11795,III,1,123 km,40.7092709423,-73.2984805775
+Riverhead,NY,United States of America,11901,III,1,180 km,40.9293013655,-72.6453991417
+Center Moriches,NY,United States of America,11934,I,1,166 km,40.8035262004,-72.79246993
+Cutchogue,NY,United States of America,11935,III,1,194 km,41.0140454222,-72.4860336755
+East Quogue,NY,United States of America,11942,III,1,184 km,40.8549285045,-72.5855647061
+Manorville,NY,United States of America,11949,IV,2,167 km,40.8630757725,-72.7884004237
+Mastic,NY,United States of America,11950,II,1,161 km,40.8088192133,-72.8516236931
+Mastic Beach,NY,United States of America,11951,II,1,162 km,40.7677168347,-72.8390942819
+Ridge,NY,United States of America,11961,II,1,159 km,40.8904607391,-72.8797998689
+Amsterdam,NY,United States of America,12010,III,2,252 km,42.935439289,-74.178548758
+Ballston Lake,NY,United States of America,12019,III,1,259 km,42.9327958564,-73.8400980052
+Ballston Spa,NY,United States of America,12020,IV,2,265 km,43.0007908815,-73.8740677486
+Cobleskill,NY,United States of America,12043,III,1,223 km,42.7038566044,-74.5238449087
+Cohoes,NY,United States of America,12047,III,1,246 km,42.7838274268,-73.7268562545
+East Greenbush,NY,United States of America,12061,III,1,229 km,42.5977113873,-73.6532892558
+Glenmont,NY,United States of America,12077,IV,1,225 km,42.5961610332,-73.7855922523
+Latham,NY,United States of America,12110,III,2,241 km,42.7529727419,-73.7790312735
+Ravena,NY,United States of America,12143,III,2,212 km,42.4884282062,-73.8532381045
+Rensselaer,NY,United States of America,12144,IV,1,230 km,42.6291274397,-73.7186831707
+Waterford,NY,United States of America,12188,III,1,251 km,42.8217035946,-73.6973934064
+Watervliet,NY,United States of America,12189,IV,1,241 km,42.7354693436,-73.7176416384
+West Coxsackie,NY,United States of America,12192,III,1,204 km,42.4058424831,-73.8187531715
+Worcester,NY,United States of America,12197,II,1,211 km,42.6083898152,-74.7245399771
+Albany,NY,United States of America,12203,III,1,232 km,42.6811489729,-73.8459580403
+Albany,NY,United States of America,12204,IV,1,236 km,42.6866147594,-73.7319696581
+Albany,NY,United States of America,12205,III,1,236 km,42.7156571425,-73.8259257962
+Albany,NY,United States of America,12207,IV,1,232 km,42.6536719221,-73.7504056942
+Albany,NY,United States of America,12208,IV,2,230 km,42.6515707627,-73.8073221491
+Schenectady,NY,United States of America,12302,III,1,250 km,42.8808921314,-73.9848749256
+Schenectady,NY,United States of America,12305,IV,4,244 km,42.8146922357,-73.9424858833
+Schenectady,NY,United States of America,12306,III,1,241 km,42.8073276494,-74.0277115926
+Schenectady,NY,United States of America,12309,III,1,244 km,42.7981012992,-73.8684353198
+Kingston,NY,United States of America,12401,IV,1,142 km,41.8716952863,-74.0689669766
+Ellenville,NY,United States of America,12428,III,1,117 km,41.7365982575,-74.4502759806
+Phoenicia,NY,United States of America,12464,III,1,152 km,42.0397546337,-74.3490360136
+Rosendale,NY,United States of America,12472,III,1,139 km,41.8439639244,-74.0702765046
+Amenia,NY,United States of America,12501,III,3,162 km,41.8539260561,-73.5614033871
+Beacon,NY,United States of America,12508,IV,1,111 km,41.4967720589,-73.951676326
+Cornwall on Hudson,NY,United States of America,12520,III,1,102 km,41.4366708714,-74.0140964066
+Dover Plains,NY,United States of America,12522,IV,1,148 km,41.7201865807,-73.6009009018
+Fishkill,NY,United States of America,12524,III,1,117 km,41.530947124,-73.8919269018
+Gardiner,NY,United States of America,12525,III,2,119 km,41.6833265163,-74.1810138422
+Germantown,NY,United States of America,12526,II,1,174 km,42.1212814931,-73.8591996713
+Highland,NY,United States of America,12528,III,3,130 km,41.7284723854,-74.0021507637
+Holmes,NY,United States of America,12531,III,1,130 km,41.5347429716,-73.6696855839
+Hopewell Junction,NY,United States of America,12533,IV,3,124 km,41.5574938922,-73.7929432898
+Hyde Park,NY,United States of America,12538,I,1,141 km,41.7930632627,-73.8922630854
+Lagrangeville,NY,United States of America,12540,II,1,137 km,41.667869807,-73.729826263
+Montgomery,NY,United States of America,12549,III,1,101 km,41.527599593,-74.2490242847
+Newburgh,NY,United States of America,12550,V,3,110 km,41.5386412054,-74.0482908351
+New Paltz,NY,United States of America,12561,III,2,129 km,41.754800752,-74.0961367983
+Pawling,NY,United States of America,12564,III,1,138 km,41.5773457595,-73.5866198954
+Red Hook,NY,United States of America,12571,II,1,165 km,42.0065973378,-73.8094449125
+Staatsburg,NY,United States of America,12580,IV,1,147 km,41.8534367695,-73.8734361038
+Wallkill,NY,United States of America,12589,III,1,114 km,41.6274560891,-74.1637629221
+Wappingers Falls,NY,United States of America,12590,III,3,123 km,41.595698798,-73.884630609
+Poughkeepsie,NY,United States of America,12601,III,3,131 km,41.703548872,-73.9110347538
+Poughkeepsie,NY,United States of America,12603,III,4,131 km,41.6782734919,-73.8668418309
+Barryville,NY,United States of America,12719,III,1,88 km,41.4899868339,-74.9170694102
+Cuddebackville,NY,United States of America,12729,II,1,88 km,41.4911633053,-74.6238450649
+Port Jervis,NY,United States of America,12771,III,3,75 km,41.3743449639,-74.6241725037
+Glens Falls,NY,United States of America,12801,II,1,304 km,43.3111283659,-73.6444254836
+South Glens Falls,NY,United States of America,12803,III,1,301 km,43.2876439324,-73.6309776861
+Queensbury,NY,United States of America,12804,III,1,307 km,43.3470399733,-73.6769692373
+Corinth,NY,United States of America,12822,IV,1,291 km,43.2447583736,-73.8918762447
+Johnsburg,NY,United States of America,12843,II,1,326 km,43.5953006462,-74.0809841319
+Saratoga Springs,NY,United States of America,12866,III,2,275 km,43.0687164567,-73.7430506471
+Auburn,NY,United States of America,13021,IV,1,288 km,42.9245098585,-76.5581575274
+Camillus,NY,United States of America,13031,II,1,290 km,43.0450731264,-76.3072244591
+East Syracuse,NY,United States of America,13057,I,1,286 km,43.0926626632,-76.0457863013
+Fayetteville,NY,United States of America,13066,III,2,278 km,43.0324529284,-76.0036091515
+Manlius,NY,United States of America,13104,II,1,270 km,42.9674893205,-75.9537696519
+Tully,NY,United States of America,13159,III,1,258 km,42.8013052207,-76.1145829106
+Waterloo,NY,United States of America,13165,III,1,302 km,42.9114850823,-76.8798439954
+Syracuse,NY,United States of America,13202,II,1,284 km,43.0432704166,-76.1505539395
+Syracuse,NY,United States of America,13214,II,1,281 km,43.0413416825,-76.0730224433
+Syracuse,NY,United States of America,13244,III,1,283 km,43.0360435762,-76.1346675149
+Cooperstown,NY,United States of America,13326,II,1,224 km,42.717283647,-74.9063227962
+New Berlin,NY,United States of America,13411,III,1,219 km,42.6382658299,-75.3162323149
+Richfield Springs,NY,United States of America,13439,III,1,239 km,42.8522869402,-74.9973735598
+Andes,NY,United States of America,13731,III,1,158 km,42.1303607368,-74.7838556334
+Norwich,NY,United States of America,13815,II,1,215 km,42.5509299757,-75.5395980463
+Oneonta,NY,United States of America,13820,II,2,198 km,42.4750621536,-75.0319074909
+Oxford,NY,United States of America,13830,III,2,206 km,42.4429350267,-75.6334768943
+Sidney,NY,United States of America,13838,IV,1,184 km,42.2895377441,-75.3957927708
+Sidney Center,NY,United States of America,13839,IV,1,175 km,42.2410381596,-75.2584008762
+Windsor,NY,United States of America,13865,II,1,167 km,42.061511824,-75.6389374407
+Binghamton,NY,United States of America,13904,IV,1,181 km,42.1298689483,-75.8166521621
+Buffalo,NY,United States of America,14216,II,1,422 km,42.9483366507,-78.8621955949
+Buffalo,NY,United States of America,14226,I,1,419 km,42.9707019317,-78.7987630203
+Rochester,NY,United States of America,14623,II,1,357 km,43.0884193445,-77.6459606448
+Rochester,NY,United States of America,14624,III,2,365 km,43.1289020227,-77.7304475262
+Bath,NY,United States of America,14810,III,1,282 km,42.3472649142,-77.3415121791
+Elmira,NY,United States of America,14901,II,1,220 km,42.0236713869,-76.7274320091
+Pittsburgh,PA,United States of America,15218,II,1,435 km,40.4237629984,-79.8902146881
+State College,PA,United States of America,16801,III,1,260 km,40.7853015687,-77.8454050111
+Boiling Springs,PA,United States of America,17007,II,1,210 km,40.1330933827,-77.1212088294
+Hershey,PA,United States of America,17033,III,1,166 km,40.270032416,-76.6322779166
+Mechanicsburg,PA,United States of America,17055,III,1,198 km,40.1757477272,-76.9977692938
+Harrisburg,PA,United States of America,17104,II,1,184 km,40.2560421825,-76.8563645518
+Delta,PA,United States of America,17314,II,1,170 km,39.7536930743,-76.3291418707
+York,PA,United States of America,17404,II,1,187 km,40.0062858588,-76.7728493143
+York,PA,United States of America,17406,II,1,177 km,40.013231858,-76.6415406627
+Columbia,PA,United States of America,17512,II,2,163 km,40.0492125143,-76.4780641184
+Kirkwood,PA,United States of America,17536,II,1,147 km,39.8410389952,-76.0743973491
+Leola,PA,United States of America,17540,II,1,138 km,40.0991790849,-76.1874248809
+Manheim,PA,United States of America,17545,III,1,153 km,40.1762186637,-76.4269777589
+Mount Joy,PA,United States of America,17552,III,2,163 km,40.1105032916,-76.5139608781
+New Holland,PA,United States of America,17557,III,1,130 km,40.1066540934,-76.0765522549
+Lancaster,PA,United States of America,17603,III,3,155 km,40.0359416895,-76.3607640148
+Williamsport,PA,United States of America,17701,II,2,201 km,41.2703541195,-77.0268615068
+Danville,PA,United States of America,17821,II,1,162 km,40.9846191421,-76.643251995
+Milton,PA,United States of America,17847,III,1,177 km,40.9996245046,-76.8217440122
+Selinsgrove,PA,United States of America,17870,II,1,181 km,40.8363662938,-76.9008049449
+Bangor,PA,United States of America,18013,IV,1,38 km,40.8539529676,-75.1712041159
+Bethlehem,PA,United States of America,18015,III,2,53 km,40.5905955505,-75.3677212235
+Bethlehem,PA,United States of America,18017,III,2,53 km,40.659527375,-75.3855856468
+Bethlehem,PA,United States of America,18018,III,1,54 km,40.6275800068,-75.3952090634
+Bethlehem,PA,United States of America,18020,III,1,48 km,40.6724249179,-75.3274768392
+Center Valley,PA,United States of America,18034,III,3,58 km,40.5418271416,-75.4106842169
+Coplay,PA,United States of America,18037,III,1,66 km,40.6814229741,-75.5462013202
+Easton,PA,United States of America,18040,III,1,39 km,40.7473377705,-75.2243542606
+East Greenville,PA,United States of America,18041,II,1,71 km,40.4184060231,-75.5138941763
+Easton,PA,United States of America,18042,IV,2,40 km,40.648541426,-75.2242630524
+Easton,PA,United States of America,18045,II,1,43 km,40.694682495,-75.2754096638
+Emmaus,PA,United States of America,18049,V,1,66 km,40.5172223026,-75.5016859722
+Fogelsville,PA,United States of America,18051,II,1,77 km,40.5944338879,-75.6654671241
+Kunkletown,PA,United States of America,18058,II,1,64 km,40.8831228479,-75.4788171871
+Palmerton,PA,United States of America,18071,II,1,71 km,40.8287388846,-75.584724754
+Wind Gap,PA,United States of America,18091,III,1,49 km,40.8268621652,-75.3210144785
+Allentown,PA,United States of America,18101,IV,1,61 km,40.6041884571,-75.4689133396
+Allentown,PA,United States of America,18103,IV,2,63 km,40.5709591144,-75.4815709192
+Allentown,PA,United States of America,18104,III,1,67 km,40.6102538111,-75.5469163254
+Allentown,PA,United States of America,18109,III,1,58 km,40.6382654749,-75.4395162431
+Jim Thorpe,PA,United States of America,18229,II,1,83 km,40.9267286805,-75.6974282954
+Lehighton,PA,United States of America,18235,IV,1,80 km,40.832745398,-75.6933709041
+East Stroudsburg,PA,United States of America,18301,III,3,52 km,41.0323628913,-75.1965047921
+East Stroudsburg,PA,United States of America,18302,III,2,52 km,41.0894141676,-75.1187316498
+Effort,PA,United States of America,18330,II,1,65 km,40.9636107095,-75.4529331094
+Milford,PA,United States of America,18337,IV,1,70 km,41.332844251,-74.884544587
+Stroudsburg,PA,United States of America,18360,IV,2,53 km,40.9661137893,-75.2923467344
+Carbondale,PA,United States of America,18407,III,1,118 km,41.5970991478,-75.531109716
+Equinunk,PA,United States of America,18417,II,1,128 km,41.8120246493,-75.1969536722
+Honesdale,PA,United States of America,18431,IV,2,109 km,41.6194900592,-75.2461520781
+Tobyhanna,PA,United States of America,18466,III,1,78 km,41.1846194779,-75.4376319886
+Dallas,PA,United States of America,18612,III,3,125 km,41.3517764629,-75.9825401208
+Harveys Lake,PA,United States of America,18618,III,1,131 km,41.3637306397,-76.0558511766
+Pittston,PA,United States of America,18640,III,2,105 km,41.296662019,-75.7385263434
+Plymouth,PA,United States of America,18651,II,1,118 km,41.2437722837,-75.9656909706
+Shickshinny,PA,United States of America,18655,IV,1,132 km,41.1986423203,-76.1907621158
+Kingston,PA,United States of America,18704,II,1,115 km,41.2773617342,-75.8972786498
+Mountain Top,PA,United States of America,18707,III,1,111 km,41.1258223043,-75.9551914053
+Ulster,PA,United States of America,18850,II,1,190 km,41.8415510631,-76.4647298463
+Doylestown,PA,United States of America,18901,III,1,55 km,40.3041451213,-75.1494057762
+Doylestown,PA,United States of America,18902,IV,2,48 km,40.3547382208,-75.1004586344
+Chalfont,PA,United States of America,18914,IV,1,60 km,40.2889569732,-75.2103160247
+New Hope,PA,United States of America,18938,IV,2,44 km,40.3504784042,-75.0018061364
+Newtown,PA,United States of America,18940,IV,4,51 km,40.2637784131,-74.9509398353
+Perkasie,PA,United States of America,18944,III,1,53 km,40.3915087573,-75.2350241252
+Quakertown,PA,United States of America,18951,III,2,56 km,40.4551888494,-75.3327254651
+Richboro,PA,United States of America,18954,III,1,57 km,40.222622402,-74.9991271869
+Sellersville,PA,United States of America,18960,III,1,61 km,40.3644739156,-75.3232497073
+Southampton,PA,United States of America,18966,III,1,61 km,40.1872597551,-75.0063708151
+Warminster,PA,United States of America,18974,III,2,60 km,40.2160658038,-75.0733795245
+Abington,PA,United States of America,19001,III,1,71 km,40.1248730722,-75.1254288102
+Ambler,PA,United States of America,19002,III,1,69 km,40.1839872714,-75.2109103136
+Ardmore,PA,United States of America,19003,III,1,90 km,40.0013488385,-75.2976192337
+Huntingdon Valley,PA,United States of America,19006,IV,4,68 km,40.1327590612,-75.0623118039
+Bryn Mawr,PA,United States of America,19010,III,6,89 km,40.023606152,-75.3303217938
+Cheltenham,PA,United States of America,19012,IV,1,77 km,40.0597325259,-75.1059613141
+Chester,PA,United States of America,19013,IV,1,108 km,39.8471212983,-75.3770878574
+Aston,PA,United States of America,19014,III,1,109 km,39.8640550915,-75.4349155396
+Brookhaven,PA,United States of America,19015,II,2,107 km,39.8667164143,-75.3891388508
+Clifton Heights,PA,United States of America,19018,IV,1,98 km,39.9233296201,-75.2981984731
+Bensalem,PA,United States of America,19020,III,1,68 km,40.1066775647,-74.9380773598
+Croydon,PA,United States of America,19021,IV,1,69 km,40.0903478809,-74.8939972833
+Dresher,PA,United States of America,19025,II,1,71 km,40.1437750175,-75.1620664338
+Drexel Hill,PA,United States of America,19026,III,3,95 km,39.9504833079,-75.3043012812
+Fairless Hills,PA,United States of America,19030,V,3,58 km,40.1787932371,-74.8389476081
+Flourtown,PA,United States of America,19031,III,2,76 km,40.1099551978,-75.2151415447
+Folcroft,PA,United States of America,19032,IV,1,100 km,39.8891150613,-75.2769561024
+Folsom,PA,United States of America,19033,III,1,102 km,39.8908429929,-75.3281222015
+Fort Washington,PA,United States of America,19034,III,4,73 km,40.1343144327,-75.2055700949
+Gladwyne,PA,United States of America,19035,IV,1,85 km,40.0491482115,-75.2815621015
+Glenside,PA,United States of America,19038,IV,1,75 km,40.1013410853,-75.1731289779
+Haverford,PA,United States of America,19041,IV,2,90 km,40.0068929286,-75.3165339147
+Jenkintown,PA,United States of America,19046,IV,2,73 km,40.1014253195,-75.1054483023
+Langhorne,PA,United States of America,19047,III,2,59 km,40.1821359173,-74.9107666043
+Feasterville Trevose,PA,United States of America,19053,IV,3,63 km,40.1548546055,-74.9788490855
+Levittown,PA,United States of America,19054,V,2,59 km,40.1711723792,-74.8209858396
+Levittown,PA,United States of America,19055,III,1,62 km,40.1484127497,-74.8365662704
+Levittown,PA,United States of America,19056,III,2,62 km,40.1496546072,-74.8849801899
+Levittown,PA,United States of America,19057,III,1,63 km,40.1405293004,-74.856267788
+Marcus Hook,PA,United States of America,19061,III,2,113 km,39.8400063056,-75.464359489
+Media,PA,United States of America,19063,III,2,103 km,39.9201587037,-75.4164796024
+Springfield,PA,United States of America,19064,IV,2,98 km,39.9336915443,-75.3413578257
+Morrisville,PA,United States of America,19067,III,4,56 km,40.1973209849,-74.8117225776
+Narberth,PA,United States of America,19072,IV,1,86 km,40.0242769199,-75.2580019851
+Newtown Square,PA,United States of America,19073,III,1,98 km,39.9819126101,-75.4343479171
+Oreland,PA,United States of America,19075,V,1,75 km,40.1133278175,-75.1877834576
+Prospect Park,PA,United States of America,19076,IV,1,102 km,39.8859625066,-75.3075207435
+Ridley Park,PA,United States of America,19078,III,1,103 km,39.8749395777,-75.3219163779
+Swarthmore,PA,United States of America,19081,III,3,102 km,39.8983205188,-75.3468604291
+Upper Darby,PA,United States of America,19082,III,2,93 km,39.9605039393,-75.2702489171
+Villanova,PA,United States of America,19085,II,1,89 km,40.0380683437,-75.3497273899
+Wayne,PA,United States of America,19087,III,4,89 km,40.0609651622,-75.3979919312
+Willow Grove,PA,United States of America,19090,IV,1,69 km,40.148797594,-75.1219837756
+Wynnewood,PA,United States of America,19096,III,3,89 km,39.9976675668,-75.2737174132
+Philadelphia,PA,United States of America,19102,III,5,90 km,39.953024029,-75.1653596706
+Philadelphia,PA,United States of America,19103,III,3,90 km,39.9530968695,-75.1740097552
+Philadelphia,PA,United States of America,19104,III,6,90 km,39.9615678562,-75.1991745449
+Philadelphia,PA,United States of America,19106,II,3,90 km,39.9501564076,-75.1464715542
+Philadelphia,PA,United States of America,19107,V,2,90 km,39.9519576423,-75.1586835102
+Philadelphia,PA,United States of America,19112,III,1,96 km,39.8919342482,-75.1707318889
+Philadelphia,PA,United States of America,19118,IV,1,80 km,40.0722772897,-75.2137730613
+Philadelphia,PA,United States of America,19119,IV,5,81 km,40.0529425539,-75.1915436129
+Philadelphia,PA,United States of America,19120,III,1,80 km,40.0340159365,-75.1199708073
+Philadelphia,PA,United States of America,19121,IV,1,87 km,39.9823672221,-75.1809882366
+Philadelphia,PA,United States of America,19123,III,2,88 km,39.9640323863,-75.1469566012
+Philadelphia,PA,United States of America,19124,II,1,81 km,40.0168041279,-75.0935508519
+Philadelphia,PA,United States of America,19128,III,4,83 km,40.0488305255,-75.2301145339
+Philadelphia,PA,United States of America,19130,III,3,89 km,39.9675897116,-75.1749143152
+Philadelphia,PA,United States of America,19132,III,1,86 km,39.9965735438,-75.1720890401
+Philadelphia,PA,United States of America,19136,III,1,76 km,40.0417892529,-75.0205840487
+Philadelphia,PA,United States of America,19139,III,2,91 km,39.9622644002,-75.2319969964
+Philadelphia,PA,United States of America,19143,III,4,93 km,39.9430858475,-75.2265207606
+Philadelphia,PA,United States of America,19144,IV,2,82 km,40.0323714358,-75.1754175789
+Philadelphia,PA,United States of America,19145,IV,1,95 km,39.914594882,-75.1919599234
+Philadelphia,PA,United States of America,19146,III,3,92 km,39.9390666541,-75.1836149852
+Philadelphia,PA,United States of America,19147,III,2,91 km,39.9362929167,-75.1543284883
+Philadelphia,PA,United States of America,19148,III,1,94 km,39.9117868913,-75.1538550962
+Philadelphia,PA,United States of America,19154,IV,3,70 km,40.0951360361,-74.9811097471
+Berwyn,PA,United States of America,19312,III,3,95 km,40.0312580658,-75.4516577687
+Coatesville,PA,United States of America,19320,III,5,122 km,39.9691263898,-75.8290063997
+Devon,PA,United States of America,19333,III,1,92 km,40.0419833275,-75.4238126876
+Downingtown,PA,United States of America,19335,III,1,111 km,40.0236408619,-75.7209186451
+Exton,PA,United States of America,19341,III,2,104 km,40.0412648322,-75.6378717758
+Glen Mills,PA,United States of America,19342,II,1,108 km,39.9053453152,-75.4998753768
+Glenmoore,PA,United States of America,19343,III,3,108 km,40.1015286902,-75.7564410622
+Kennett Square,PA,United States of America,19348,III,3,123 km,39.8656166481,-75.716229206
+Malvern,PA,United States of America,19355,III,2,98 km,40.0476479492,-75.5317201433
+Nottingham,PA,United States of America,19362,II,2,153 km,39.7513558422,-76.068205999
+West Chester,PA,United States of America,19380,III,2,107 km,39.9857564781,-75.6046532597
+West Grove,PA,United States of America,19390,III,1,133 km,39.8351070611,-75.8392152037
+Norristown,PA,United States of America,19401,III,3,80 km,40.130418529,-75.3313920734
+Norristown,PA,United States of America,19403,II,3,81 km,40.1505915831,-75.3793310576
+King of Prussia,PA,United States of America,19406,III,5,86 km,40.0952484716,-75.3877677496
+Blue Bell,PA,United States of America,19422,II,4,75 km,40.1573393005,-75.2765424631
+Collegeville,PA,United States of America,19426,II,1,81 km,40.1891111197,-75.4368022304
+Conshohocken,PA,United States of America,19428,III,6,83 km,40.0808005985,-75.3067370052
+Harleysville,PA,United States of America,19438,II,2,72 km,40.2695721514,-75.3958577723
+Hatfield,PA,United States of America,19440,II,1,65 km,40.2829490517,-75.2927194001
+Lafayette Hill,PA,United States of America,19444,III,3,80 km,40.0857817886,-75.2539370603
+Lansdale,PA,United States of America,19446,III,3,69 km,40.231632819,-75.3007419577
+North Wales,PA,United States of America,19454,IV,3,67 km,40.2218350407,-75.2454587794
+Phoenixville,PA,United States of America,19460,III,1,91 km,40.1272547048,-75.5304910775
+Plymouth Meeting,PA,United States of America,19462,III,4,79 km,40.1151369697,-75.283315423
+Pottstown,PA,United States of America,19464,I,1,88 km,40.2585329376,-75.6157878328
+Pottstown,PA,United States of America,19465,III,1,95 km,40.1999493607,-75.6738297878
+Bally,PA,United States of America,19503,V,1,78 km,40.4007934701,-75.5874400995
+Birdsboro,PA,United States of America,19508,IV,3,104 km,40.2567321248,-75.8355821111
+Douglassville,PA,United States of America,19518,III,1,96 km,40.2680195568,-75.7470679673
+Gilbertsville,PA,United States of America,19525,III,1,82 km,40.3085268052,-75.5855317455
+Oley,PA,United States of America,19547,II,1,92 km,40.3792797279,-75.7666093944
+Temple,PA,United States of America,19560,III,1,101 km,40.4021305769,-75.890990031
+Reading,PA,United States of America,19604,III,1,104 km,40.3581135443,-75.9084901452
+Reading,PA,United States of America,19605,IV,1,106 km,40.4016539613,-75.9468058383
+Reading,PA,United States of America,19606,III,1,101 km,40.3369744764,-75.8547458371
+Reading,PA,United States of America,19609,IV,1,113 km,40.3273569912,-75.997170274
+Bear,DE,United States of America,19701,II,1,148 km,39.5824344078,-75.699665805
+Newark,DE,United States of America,19702,III,1,145 km,39.6234890232,-75.7271747814
+Newark,DE,United States of America,19716,II,1,141 km,39.6792323451,-75.7524693166
+New Castle,DE,United States of America,19720,II,1,138 km,39.6404522951,-75.6039082983
+Yorklyn,DE,United States of America,19736,III,1,126 km,39.7902362922,-75.6473809198
+Wilmington,DE,United States of America,19803,II,1,120 km,39.7999804776,-75.5469285126
+Wilmington,DE,United States of America,19804,II,1,131 km,39.716768618,-75.6176046025
+Wilmington,DE,United States of America,19805,II,2,128 km,39.7455983611,-75.5940948413
+Wilmington,DE,United States of America,19807,II,1,124 km,39.7967210012,-75.6117058561
+Wilmington,DE,United States of America,19808,III,2,132 km,39.737907482,-75.6654466177
+Greenwood,DE,United States of America,19950,I,1,221 km,38.8216194322,-75.6013317939
+Lewes,DE,United States of America,19958,II,1,221 km,38.7356857972,-75.1709034213
+Smyrna,DE,United States of America,19977,II,1,170 km,39.2854705235,-75.5355149428
+Washington,DC,United States of America,20002,V,1,276 km,38.9054278305,-76.9844797564
+Washington,DC,United States of America,20003,III,2,278 km,38.8811526682,-76.9912484427
+Washington,DC,United States of America,20004,II,1,279 km,38.891739574,-77.0231293725
+Washington,DC,United States of America,20010,II,1,276 km,38.9325687162,-77.0306027045
+Centreville,VA,United States of America,20120,I,2,310 km,38.8553302812,-77.4798647561
+Clifton,VA,United States of America,20124,II,1,310 km,38.7814053047,-77.3910428423
+Sterling,VA,United States of America,20165,II,2,290 km,39.0506836655,-77.3882684044
+Leesburg,VA,United States of America,20175,III,1,303 km,39.0619698034,-77.598355076
+Reston,VA,United States of America,20191,II,2,296 km,38.9341036583,-77.3511044659
+Hollywood,MD,United States of America,20636,I,1,304 km,38.3483596897,-76.5687662181
+Laurel,MD,United States of America,20723,II,1,250 km,39.1364252366,-76.8661549045
+Chesapeake Beach,MD,United States of America,20732,II,1,273 km,38.6586271458,-76.5424995286
+Upper Marlboro,MD,United States of America,20772,II,1,274 km,38.7833693263,-76.7688203697
+Rockville,MD,United States of America,20850,II,1,274 km,39.0904899647,-77.1832843027
+Germantown,MD,United States of America,20876,III,1,269 km,39.2076069982,-77.2344232398
+Gaithersburg,MD,United States of America,20877,III,1,270 km,39.1415412569,-77.1864968684
+Silver Spring,MD,United States of America,20906,II,1,266 km,39.0877577722,-77.0564030661
+Bel Air,MD,United States of America,21015,II,1,183 km,39.5453127306,-76.2951320345
+Ellicott City,MD,United States of America,21043,II,2,236 km,39.2577007961,-76.7972530348
+Columbia,MD,United States of America,21044,II,1,245 km,39.2102955367,-76.8836519539
+Forest Hill,MD,United States of America,21050,II,1,186 km,39.5858870257,-76.3918987478
+Gambrills,MD,United States of America,21054,III,1,251 km,38.9824723525,-76.6652750135
+Elkridge,MD,United States of America,21075,II,1,238 km,39.2047497826,-76.7530030102
+Hanover,MD,United States of America,21076,III,1,239 km,39.1692906987,-76.7222951627
+Havre de Grace,MD,United States of America,21078,II,1,172 km,39.5706418611,-76.1486566885
+Jarrettsville,MD,United States of America,21084,III,1,188 km,39.6192936186,-76.4635052096
+Linthicum Heights,MD,United States of America,21090,II,1,232 km,39.208606963,-76.6689147449
+Marriottsville,MD,United States of America,21104,III,1,237 km,39.3501442263,-76.9077861352
+Millersville,MD,United States of America,21108,III,1,239 km,39.0909092819,-76.6225767225
+Odenton,MD,United States of America,21113,II,2,248 km,39.0520492,-76.7139615593
+Westminster,MD,United States of America,21157,I,1,228 km,39.5479755181,-76.9812041861
+White Hall,MD,United States of America,21161,II,1,192 km,39.6613916786,-76.5681272629
+Baltimore,MD,United States of America,21212,III,1,217 km,39.3672223579,-76.6146516161
+Baltimore,MD,United States of America,21214,III,1,215 km,39.3518728761,-76.5644344356
+Baltimore,MD,United States of America,21217,III,1,223 km,39.3068728721,-76.6389749058
+Essex,MD,United States of America,21221,III,1,212 km,39.295645033,-76.4390449177
+Baltimore,MD,United States of America,21224,III,1,219 km,39.2833260896,-76.542414826
+Catonsville,MD,United States of America,21228,II,1,232 km,39.2723650955,-76.745923977
+Baltimore,MD,United States of America,21231,III,1,221 km,39.2883390467,-76.5923517134
+Nottingham,MD,United States of America,21236,II,1,207 km,39.3872008438,-76.4855232174
+Rosedale,MD,United States of America,21237,II,1,212 km,39.3384893791,-76.4963816622
+Easton,MD,United States of America,21601,I,1,240 km,38.7939008225,-76.0774233664
+Denton,MD,United States of America,21629,I,1,224 km,38.8623350792,-75.8310450085
+Greensboro,MD,United States of America,21639,II,1,212 km,38.9635035595,-75.7936741724
+North East,MD,United States of America,21901,II,1,168 km,39.4902959521,-75.9492009866
+Oakton,VA,United States of America,22124,II,1,298 km,38.8909975116,-77.3295595655
+Harrisonburg,VA,United States of America,22801,III,1,436 km,38.412886515,-78.8844402357
+Richmond,VA,United States of America,23220,III,1,420 km,37.5499991429,-77.4596853041
+Virginia Beach,VA,United States of America,23451,I,1,439 km,36.8663849304,-76.0057151353
+Blacksburg,VA,United States of America,24060,I,1,622 km,37.2559154217,-80.4198183076
+Fort Lauderdale,FL,United States of America,33311,II,2,1691 km,26.1436193145,-80.1739624517
+Bella Vista,AR,United States of America,72714,I,1,1761 km,36.4588314163,-94.2309984549
+Peyton,CO,United States of America,80831,I,1,2553 km,38.9816948645,-104.512524423
+Montreal,Québec,Canada,,III,1,543 km,45.52,-73.57
