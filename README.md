@@ -2,6 +2,11 @@
 ## M 3.8 - 7 km SW of Gladstone, New Jersey
 - 2024-04-05 21:59:13 (UTC)40.685°N 74.735°W8.5 km depth
 
+## Data files used in this project:
+![image](https://github.com/joemcmullin/New-Jersey-Earthquake-2024/assets/3474363/f3c4f9eb-4957-4579-bb81-1483f99df57f)
+
+https://earthquake.usgs.gov/earthquakes/eventpage/us7000mab9/dyfi/intensity-vs-distance
+
 This project explores the relationship between earthquake intensity, distance from the epicenter, and estimated distances using visual data analysis techniques. We employ scatter plots and a heatmap-like visualization to convey the variations and patterns within the earthquake data.
 
 ## Visualizations
@@ -15,7 +20,8 @@ The first visualization is a scatter plot that compares the earthquake intensity
 
 This plot aims to show how the intensity of earthquakes varies with the distance from the epicenter.
 
-![Scatter Plot - Intensity vs. Actual Distance][placeholder]
+![heatmap](https://github.com/joemcmullin/New-Jersey-Earthquake-2024/assets/3474363/06ec3c0d-a618-4d9a-8244-144dbf3395ee)
+
 
 ### Scatter Plot: Intensity vs. Estimated Distance
 
@@ -26,7 +32,9 @@ The second visualization is similar to the first but compares the earthquake int
 
 This plot allows us to compare actual and estimated distances in relation to the intensity of earthquakes.
 
-![Scatter Plot - Intensity vs. Estimated Distance][placeholder]
+![scatterdistanceIntensity](https://github.com/joemcmullin/New-Jersey-Earthquake-2024/assets/3474363/6ddfc18e-b823-4d6d-a57b-3f86f7a81dfa)
+
+![scatter2](https://github.com/joemcmullin/New-Jersey-Earthquake-2024/assets/3474363/9c4b0048-38ad-4657-a0ae-f768150f05b9)
 
 ### Heatmap-like Scatter Plot
 
@@ -38,7 +46,8 @@ The third visualization is a heatmap-like scatter plot where the color and size 
 
 This innovative approach provides a quick visual assessment of earthquake intensity across different distances.
 
-![Heatmap-like Scatter Plot][placeholder]
+![headLikeScatter](https://github.com/joemcmullin/New-Jersey-Earthquake-2024/assets/3474363/37d0f5bb-1979-4efe-9c4e-dc3dfbc5a877)
+
 
 ## Analysis
 
@@ -50,4 +59,4 @@ This innovative approach provides a quick visual assessment of earthquake intens
 
 Visual data analysis of earthquake intensity and distance offers insightful observations into the nature of earthquakes. The employed visualizations not only facilitate a direct comparison between different data aspects but also enhance our understanding of the underlying patterns within the data.
 
-For further analysis or any questions, please feel free to [contact us](mailto:example@example.com) or raise an issue in this repository.
+
