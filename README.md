@@ -5,6 +5,9 @@
 ## Data files used in this project:
 ![image](https://github.com/joemcmullin/New-Jersey-Earthquake-2024/assets/3474363/f3c4f9eb-4957-4579-bb81-1483f99df57f)
 
+## Juniper, notebook, and python files
+- The juniper notebook and Poten Falls are located in the project files.
+
 https://earthquake.usgs.gov/earthquakes/eventpage/us7000mab9/dyfi/intensity-vs-distance
 
 This project explores the relationship between earthquake intensity, distance from the epicenter, and estimated distances using visual data analysis techniques. We employ scatter plots and a heatmap-like visualization to convey the variations and patterns within the earthquake data.
